@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import './App.css';
+import axios from 'axios'; // Import Axios
 import {AiOutlineDelete, AiOutlineEdit} from 'react-icons/ai';
 import {BsCheckLg} from 'react-icons/bs';
 
@@ -12,13 +13,56 @@ function App () {
   const [currentEdit,setCurrentEdit] = useState("");
   const [currentEditedItem,setCurrentEditedItem] = useState("");
   const [newCategory, setNewCategory] = useState('');
+  const [newDueDate, setNewDueDate] = useState('');
+ 
+  const sortTodosByPriority = (todos) => {
+    const priorityOrder = ['High', 'Medium', 'Low'];  // Define priority order
+    
+    return todos.sort((a, b) => {
+      const aPriorityIndex = priorityOrder.indexOf(a.priority);
+      const bPriorityIndex = priorityOrder.indexOf(b.priority);
+      
+      return aPriorityIndex - bPriorityIndex;  // Sort tasks by priority order
+    });
+  };
 
-
-  const handleAddTodo = () => {
+  const handleAddTodo = async () => {
     let newTodoItem = {
       title: newTitle,
       description: newDescription,
+      category: newCategory,
+      dueDate: newDueDate, // Include the category here
     };
+  
+    try {
+      const response = await axios.post('http://localhost:5000/predict', {
+        text: `${newTitle} ${newDescription}`, // Concatenate title and description for text
+        description: newDescription,
+        category: newCategory, // Send the category to the Flask API
+      });
+  
+      if (response.status === 200) {
+        const predictedPriority = response.data.predicted_priority; // Get predicted priority from API response
+        newTodoItem.priority = predictedPriority;  // Add predicted priority to new task
+        setTodos([...allTodos, newTodoItem]); // Update the list of todos
+        localStorage.setItem('todolist', JSON.stringify([...allTodos, newTodoItem])); // Save updated todos to localStorage
+      } else if (response.status === 400) {
+        console.error('Bad Request: Invalid input data');
+        alert('Invalid input data. Please check your input and try again.');
+      } else if (response.status === 500) {
+        console.error('Server Error: Failed to predict priority');
+        alert('An error occurred while predicting priority. Please try again later.');
+      } else {
+        console.error('Unexpected error:', response.statusText);
+        alert('An unexpected error occurred. Please try again later.');
+      }
+    } catch (error) {
+      console.error('Error predicting priority:', error);
+      alert('Error predicting priority. Please try again later.');
+    }
+  
+  
+
 
     let updatedTodoArr = [...allTodos];
     updatedTodoArr.push (newTodoItem);
@@ -28,7 +72,7 @@ function App () {
 
   const handleDeleteTodo = index => {
     let reducedTodo = [...allTodos];
-    reducedTodo.splice (index);
+    reducedTodo.splice (index,1);
 
     localStorage.setItem ('todolist', JSON.stringify (reducedTodo));
     setTodos (reducedTodo);
@@ -62,7 +106,7 @@ function App () {
 
   const handleDeleteCompletedTodo = index => {
     let reducedTodo = [...completedTodos];
-    reducedTodo.splice (index);
+    reducedTodo.splice (index,1);
 
     localStorage.setItem ('completedTodos', JSON.stringify (reducedTodo));
     setCompletedTodos (reducedTodo);
@@ -100,6 +144,12 @@ function App () {
       return {...prev,description:value}
     })
   }
+  const handleUpdateDueDate = (value) => {
+    setCurrentEditedItem((prev) => {
+      return { ...prev, dueDate: value };
+    });
+  };
+  
 
   const handleUpdateToDo = ()=>{
       let newToDo = [...allTodos];
@@ -151,6 +201,13 @@ function App () {
           </div>
 
           <div className="todo-input-item">
+            <label>Due Date</label>
+            <input type="date"value={newDueDate}
+            onChange={e => setNewDueDate(e.target.value)}
+           />
+          </div>
+
+          <div className="todo-input-item">
             <button
               type="button"
               onClick={handleAddTodo}
@@ -179,7 +236,7 @@ function App () {
         <div className="todo-list">
 
           {isCompleteScreen === false &&
-            allTodos.map ((item, index) => {
+            sortTodosByPriority(allTodos).map((item, index) => {
               if(currentEdit===index){
                  return(
                   <div className='edit__wrapper' key={index}>
@@ -190,6 +247,10 @@ function App () {
                   rows={4}
                   onChange={(e)=>handleUpdateDescription(e.target.value)} 
                   value={currentEditedItem.description}  />
+                  <input type="date"
+                  value={currentEditedItem.dueDate}
+                  onChange={e => handleUpdateDueDate(e.target.value)}
+                 />
                    <button
               type="button"
               onClick={handleUpdateToDo}
@@ -203,8 +264,20 @@ function App () {
                 return (
                   <div className="todo-list-item" key={index}>
                     <div>
-                      <h3>{item.title}</h3>
+                      <h3 
+                        className={
+                          item.priority === "High"
+                            ? "title-high"
+                            : item.priority === "Medium"
+                            ? "title-medium"
+                            : "title-low"
+                        }
+                      >{item.title}</h3>
                       <p>{item.description}</p>
+                      {/* <p><strong>Priority: </strong>{item.priority}</p>  Show the predicted priority */}
+                      <p><strong>Due Date: </strong>{item.dueDate}</p> {/* Display due date */}
+
+
                     </div>
   
                     <div>

@@ -1,0 +1,3001 @@
+text,priority,description,category
+Clean the house,Medium,Fix critical bugs in the system,Work
+Workout session,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Organize the home office,Personal
+Clean the house,Medium,Gym session for strength training,Health
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Workout session,Medium,Send project status update to stakeholders,Work
+Call family,High,Conduct performance reviews,Work
+Finish project report,High,Go for a run in the park,Health
+Organize files,High,Send project status update to stakeholders,Work
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Send project status update to stakeholders,Work
+Clean the house,Medium,Organize the home office,Personal
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Go for a run in the park,Health
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Gym session for strength training,Health
+Update website,High,Conduct performance reviews,Work
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Gym session for strength training,Health
+Client follow-up,Medium,Send project status update to stakeholders,Work
+Clean the house,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Doctor appointment for annual checkup,Health
+Update website,Medium,Conduct performance reviews,Work
+Update website,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Conduct performance reviews,Work
+Doctor appointment,Low,Meditation and relaxation session,Health
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Plan vacation,Low,Go for a run in the park,Health
+Plan vacation,Medium,Conduct performance reviews,Work
+Buy groceries,High,Meditation and relaxation session,Health
+Schedule team meeting,Low,Gym session for strength training,Health
+Organize files,Medium,Send project status update to stakeholders,Work
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Call family to check in,Personal
+Schedule team meeting,High,Doctor appointment for annual checkup,Health
+Buy groceries,Medium,Conduct performance reviews,Work
+Finish project report,Medium,Organize the home office,Personal
+Write blog post,Low,Meditation and relaxation session,Health
+Workout session,Medium,Conduct performance reviews,Work
+Plan vacation,High,Meditation and relaxation session,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Review pull requests,Low,Meditation and relaxation session,Health
+Clean the house,Low,Gym session for strength training,Health
+Schedule team meeting,High,Gym session for strength training,Health
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Clean the house,Medium,Schedule dentist appointment,Health
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Call family,High,Go for a run in the park,Health
+Schedule team meeting,Medium,Call family to check in,Personal
+Call family,High,Gym session for strength training,Health
+Study for exam,High,Fix critical bugs in the system,Work
+Write blog post,Medium,Organize the home office,Personal
+Fix the sink,High,Doctor appointment for annual checkup,Health
+Study for exam,High,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Client follow-up,High,Doctor appointment for annual checkup,Health
+Call family,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Finish project report,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Review pull requests,High,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Organize the home office,Personal
+Plan vacation,High,Fix critical bugs in the system,Work
+Workout session,Medium,Organize the home office,Personal
+Plan vacation,Low,Meditation and relaxation session,Health
+Study for exam,High,Go for a run in the park,Health
+Write blog post,Medium,Go for a run in the park,Health
+Plan vacation,Medium,Fix critical bugs in the system,Work
+Workout session,Low,Meditation and relaxation session,Health
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Workout session,High,Fix critical bugs in the system,Work
+Doctor appointment,High,Conduct performance reviews,Work
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Buy groceries for the week,Personal
+Doctor appointment,Medium,Call family to check in,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Organize the home office,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Study for exam,High,Conduct performance reviews,Work
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Write blog post,Low,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Doctor appointment for annual checkup,Health
+Update website,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Workout session,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Review pull requests,Medium,Doctor appointment for annual checkup,Health
+Plan vacation,Low,Go for a run in the park,Health
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Review pull requests,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Low,Gym session for strength training,Health
+Workout session,High,Fix critical bugs in the system,Work
+Write blog post,Medium,Conduct performance reviews,Work
+Finish project report,High,Conduct performance reviews,Work
+Update website,Medium,Call family to check in,Personal
+Study for exam,Low,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Write blog post,Low,Schedule dentist appointment,Health
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Call family,Medium,Complete end-of-quarter financial report,Work
+Workout session,Medium,Go for a run in the park,Health
+Plan vacation,High,Conduct performance reviews,Work
+Schedule team meeting,Medium,Gym session for strength training,Health
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Workout session,High,Gym session for strength training,Health
+Study for exam,Medium,Go for a run in the park,Health
+Workout session,Low,Schedule dentist appointment,Health
+Plan vacation,High,Gym session for strength training,Health
+Study for exam,High,Fix critical bugs in the system,Work
+Call family,Medium,Send project status update to stakeholders,Work
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Buy groceries for the week,Personal
+Call family,High,Meditation and relaxation session,Health
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Fix critical bugs in the system,Work
+Fix the sink,High,Schedule dentist appointment,Health
+Clean the house,Medium,Go for a run in the park,Health
+Review pull requests,High,Conduct performance reviews,Work
+Study for exam,High,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Call family to check in,Personal
+Client follow-up,Medium,Go for a run in the park,Health
+Client follow-up,Medium,Meditation and relaxation session,Health
+Schedule team meeting,High,Prepare presentation slides for the meeting,Work
+Write blog post,High,Gym session for strength training,Health
+Buy groceries,Medium,Organize the home office,Personal
+Workout session,Low,Go for a run in the park,Health
+Doctor appointment,Medium,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Study for exam,High,Fix critical bugs in the system,Work
+Clean the house,Medium,Call family to check in,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Workout session,Low,Gym session for strength training,Health
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Client follow-up,High,Conduct performance reviews,Work
+Fix the sink,Medium,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Call family to check in,Personal
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Update website,Low,Go for a run in the park,Health
+Study for exam,Medium,Conduct performance reviews,Work
+Organize files,Low,Go for a run in the park,Health
+Schedule team meeting,Low,Gym session for strength training,Health
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Organize files,Low,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Doctor appointment for annual checkup,Health
+Workout session,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Organize the home office,Personal
+Client follow-up,Medium,Call family to check in,Personal
+Plan vacation,Medium,Organize the home office,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Call family,High,Meditation and relaxation session,Health
+Doctor appointment,High,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Conduct performance reviews,Work
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Gym session for strength training,Health
+Workout session,Medium,Complete end-of-quarter financial report,Work
+Workout session,High,Send project status update to stakeholders,Work
+Schedule team meeting,Low,Doctor appointment for annual checkup,Health
+Study for exam,Low,Meditation and relaxation session,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Study for exam,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Organize the home office,Personal
+Call family,Medium,Call family to check in,Personal
+Study for exam,High,Meditation and relaxation session,Health
+Write blog post,Medium,Conduct performance reviews,Work
+Study for exam,Medium,Conduct performance reviews,Work
+Workout session,Medium,Plan a weekend getaway,Personal
+Client follow-up,Low,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Gym session for strength training,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Call family,Medium,Buy groceries for the week,Personal
+Organize files,High,Conduct performance reviews,Work
+Finish project report,Medium,Meditation and relaxation session,Health
+Client follow-up,Medium,Conduct performance reviews,Work
+Review pull requests,Medium,Call family to check in,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Buy groceries for the week,Personal
+Call family,Medium,Buy groceries for the week,Personal
+Write blog post,High,Gym session for strength training,Health
+Plan vacation,Medium,Meditation and relaxation session,Health
+Write blog post,Medium,Organize the home office,Personal
+Fix the sink,Medium,Doctor appointment for annual checkup,Health
+Plan vacation,High,Send project status update to stakeholders,Work
+Call family,High,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Review pull requests,Medium,Fix critical bugs in the system,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Call family to check in,Personal
+Workout session,Low,Gym session for strength training,Health
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Call family to check in,Personal
+Study for exam,Medium,Conduct performance reviews,Work
+Review pull requests,Medium,Call family to check in,Personal
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Call family to check in,Personal
+Review pull requests,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Conduct performance reviews,Work
+Organize files,Medium,Organize the home office,Personal
+Review pull requests,Low,Schedule dentist appointment,Health
+Workout session,Low,Schedule dentist appointment,Health
+Organize files,Medium,Organize the home office,Personal
+Schedule team meeting,Low,Schedule dentist appointment,Health
+Doctor appointment,High,Meditation and relaxation session,Health
+Finish project report,Medium,Go for a run in the park,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Workout session,High,Schedule dentist appointment,Health
+Schedule team meeting,Low,Gym session for strength training,Health
+Plan vacation,Low,Go for a run in the park,Health
+Clean the house,High,Conduct performance reviews,Work
+Review pull requests,Medium,Gym session for strength training,Health
+Workout session,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Gym session for strength training,Health
+Client follow-up,Medium,Buy groceries for the week,Personal
+Call family,Low,Gym session for strength training,Health
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Review pull requests,Low,Schedule dentist appointment,Health
+Schedule team meeting,High,Prepare presentation slides for the meeting,Work
+Workout session,High,Send project status update to stakeholders,Work
+Finish project report,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Send project status update to stakeholders,Work
+Fix the sink,Low,Meditation and relaxation session,Health
+Write blog post,Medium,Gym session for strength training,Health
+Finish project report,High,Fix critical bugs in the system,Work
+Finish project report,High,Doctor appointment for annual checkup,Health
+Buy groceries,High,Meditation and relaxation session,Health
+Call family,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Organize the home office,Personal
+Finish project report,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Organize the home office,Personal
+Write blog post,Medium,Send project status update to stakeholders,Work
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Call family to check in,Personal
+Update website,Medium,Call family to check in,Personal
+Update website,High,Complete end-of-quarter financial report,Work
+Workout session,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Call family to check in,Personal
+Fix the sink,High,Schedule dentist appointment,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Clean the house,Low,Meditation and relaxation session,Health
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Conduct performance reviews,Work
+Buy groceries,High,Meditation and relaxation session,Health
+Workout session,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Call family to check in,Personal
+Study for exam,Medium,Meditation and relaxation session,Health
+Clean the house,Medium,Conduct performance reviews,Work
+Finish project report,Medium,Gym session for strength training,Health
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Schedule a dinner with friends,Personal
+Finish project report,Medium,Meditation and relaxation session,Health
+Organize files,High,Conduct performance reviews,Work
+Update website,Medium,Send project status update to stakeholders,Work
+Write blog post,Low,Go for a run in the park,Health
+Review pull requests,Medium,Gym session for strength training,Health
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Clean the house,High,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Update website,High,Send project status update to stakeholders,Work
+Buy groceries,High,Fix critical bugs in the system,Work
+Write blog post,Medium,Organize the home office,Personal
+Organize files,Medium,Conduct performance reviews,Work
+Write blog post,Medium,Send project status update to stakeholders,Work
+Client follow-up,Low,Gym session for strength training,Health
+Organize files,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Review pull requests,High,Fix critical bugs in the system,Work
+Review pull requests,Low,Gym session for strength training,Health
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Low,Schedule dentist appointment,Health
+Client follow-up,High,Conduct performance reviews,Work
+Client follow-up,High,Go for a run in the park,Health
+Workout session,Low,Gym session for strength training,Health
+Finish project report,Medium,Plan a weekend getaway,Personal
+Plan vacation,High,Fix critical bugs in the system,Work
+Workout session,Low,Meditation and relaxation session,Health
+Clean the house,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Low,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Go for a run in the park,Health
+Organize files,Low,Gym session for strength training,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Study for exam,Low,Go for a run in the park,Health
+Write blog post,Low,Gym session for strength training,Health
+Update website,Low,Schedule dentist appointment,Health
+Clean the house,Low,Meditation and relaxation session,Health
+Clean the house,High,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Call family,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,High,Doctor appointment for annual checkup,Health
+Call family,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Send project status update to stakeholders,Work
+Call family,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Doctor appointment,High,Meditation and relaxation session,Health
+Plan vacation,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Call family,Medium,Plan a weekend getaway,Personal
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Update website,High,Meditation and relaxation session,Health
+Doctor appointment,High,Go for a run in the park,Health
+Write blog post,Medium,Meditation and relaxation session,Health
+Write blog post,High,Schedule dentist appointment,Health
+Workout session,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Call family to check in,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Finish project report,Medium,Organize the home office,Personal
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Organize files,Low,Gym session for strength training,Health
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Review pull requests,High,Schedule dentist appointment,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Schedule dentist appointment,Health
+Finish project report,High,Fix critical bugs in the system,Work
+Organize files,Medium,Doctor appointment for annual checkup,Health
+Organize files,Medium,Organize the home office,Personal
+Update website,Medium,Organize the home office,Personal
+Finish project report,High,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Schedule dentist appointment,Health
+Study for exam,Medium,Fix critical bugs in the system,Work
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Organize the home office,Personal
+Study for exam,Medium,Organize the home office,Personal
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Clean the house,Medium,Doctor appointment for annual checkup,Health
+Study for exam,High,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Clean the house,High,Schedule dentist appointment,Health
+Workout session,Medium,Meditation and relaxation session,Health
+Review pull requests,Medium,Organize the home office,Personal
+Client follow-up,Medium,Complete end-of-quarter financial report,Work
+Write blog post,High,Conduct performance reviews,Work
+Plan vacation,High,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Update website,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Conduct performance reviews,Work
+Finish project report,Medium,Organize the home office,Personal
+Client follow-up,Medium,Call family to check in,Personal
+Plan vacation,Medium,Gym session for strength training,Health
+Buy groceries,High,Fix critical bugs in the system,Work
+Buy groceries,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Schedule dentist appointment,Health
+Buy groceries,Low,Meditation and relaxation session,Health
+Doctor appointment,Low,Meditation and relaxation session,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Buy groceries for the week,Personal
+Update website,Medium,Call family to check in,Personal
+Plan vacation,Medium,Go for a run in the park,Health
+Write blog post,High,Meditation and relaxation session,Health
+Finish project report,Medium,Fix critical bugs in the system,Work
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Workout session,Low,Go for a run in the park,Health
+Finish project report,Low,Go for a run in the park,Health
+Organize files,Medium,Conduct performance reviews,Work
+Call family,Medium,Doctor appointment for annual checkup,Health
+Workout session,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Call family to check in,Personal
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Call family to check in,Personal
+Review pull requests,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Write blog post,High,Gym session for strength training,Health
+Update website,High,Conduct performance reviews,Work
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Gym session for strength training,Health
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Call family,Medium,Organize the home office,Personal
+Buy groceries,Medium,Meditation and relaxation session,Health
+Finish project report,Medium,Conduct performance reviews,Work
+Review pull requests,Medium,Fix critical bugs in the system,Work
+Call family,High,Conduct performance reviews,Work
+Update website,Medium,Buy groceries for the week,Personal
+Client follow-up,High,Complete end-of-quarter financial report,Work
+Client follow-up,High,Conduct performance reviews,Work
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Finish project report,High,Schedule dentist appointment,Health
+Organize files,Medium,Gym session for strength training,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Fix the sink,High,Conduct performance reviews,Work
+Buy groceries,Medium,Conduct performance reviews,Work
+Review pull requests,High,Gym session for strength training,Health
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Organize the home office,Personal
+Client follow-up,Medium,Send project status update to stakeholders,Work
+Finish project report,Medium,Call family to check in,Personal
+Plan vacation,Medium,Schedule dentist appointment,Health
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Organize the home office,Personal
+Update website,Low,Go for a run in the park,Health
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Call family to check in,Personal
+Review pull requests,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Update website,High,Meditation and relaxation session,Health
+Organize files,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Organize the home office,Personal
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Call family,High,Fix critical bugs in the system,Work
+Plan vacation,Medium,Call family to check in,Personal
+Write blog post,Low,Gym session for strength training,Health
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,High,Conduct performance reviews,Work
+Doctor appointment,High,Meditation and relaxation session,Health
+Organize files,Medium,Go for a run in the park,Health
+Schedule team meeting,Medium,Schedule dentist appointment,Health
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Plan vacation,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Go for a run in the park,Health
+Fix the sink,High,Send project status update to stakeholders,Work
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Conduct performance reviews,Work
+Update website,Low,Schedule dentist appointment,Health
+Study for exam,Medium,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Organize the home office,Personal
+Finish project report,High,Go for a run in the park,Health
+Finish project report,High,Send project status update to stakeholders,Work
+Review pull requests,High,Schedule dentist appointment,Health
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Organize files,High,Schedule dentist appointment,Health
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,High,Gym session for strength training,Health
+Doctor appointment,High,Gym session for strength training,Health
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Call family to check in,Personal
+Fix the sink,Medium,Send project status update to stakeholders,Work
+Fix the sink,High,Send project status update to stakeholders,Work
+Fix the sink,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Conduct performance reviews,Work
+Workout session,High,Send project status update to stakeholders,Work
+Workout session,Medium,Organize the home office,Personal
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Update website,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,Low,Gym session for strength training,Health
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Call family to check in,Personal
+Organize files,Medium,Doctor appointment for annual checkup,Health
+Workout session,Medium,Call family to check in,Personal
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Call family to check in,Personal
+Schedule team meeting,High,Gym session for strength training,Health
+Schedule team meeting,Low,Doctor appointment for annual checkup,Health
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Buy groceries for the week,Personal
+Clean the house,Medium,Schedule dentist appointment,Health
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Update website,High,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Go for a run in the park,Health
+Fix the sink,High,Complete end-of-quarter financial report,Work
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Fix the sink,High,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Organize files,High,Prepare presentation slides for the meeting,Work
+Clean the house,High,Fix critical bugs in the system,Work
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Plan vacation,Medium,Organize the home office,Personal
+Study for exam,High,Fix critical bugs in the system,Work
+Organize files,Low,Meditation and relaxation session,Health
+Buy groceries,Medium,Meditation and relaxation session,Health
+Call family,Medium,Call family to check in,Personal
+Organize files,Medium,Plan a weekend getaway,Personal
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Clean the house,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Call family,Medium,Organize the home office,Personal
+Review pull requests,Low,Meditation and relaxation session,Health
+Review pull requests,High,Doctor appointment for annual checkup,Health
+Buy groceries,Medium,Organize the home office,Personal
+Workout session,High,Send project status update to stakeholders,Work
+Client follow-up,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Organize files,Medium,Meditation and relaxation session,Health
+Plan vacation,Medium,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,High,Go for a run in the park,Health
+Clean the house,Low,Gym session for strength training,Health
+Buy groceries,Low,Meditation and relaxation session,Health
+Clean the house,High,Go for a run in the park,Health
+Client follow-up,Low,Meditation and relaxation session,Health
+Client follow-up,High,Gym session for strength training,Health
+Write blog post,Medium,Meditation and relaxation session,Health
+Update website,Low,Doctor appointment for annual checkup,Health
+Call family,Medium,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Client follow-up,High,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Finish project report,High,Send project status update to stakeholders,Work
+Call family,Low,Schedule dentist appointment,Health
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Conduct performance reviews,Work
+Clean the house,Medium,Call family to check in,Personal
+Study for exam,Medium,Gym session for strength training,Health
+Finish project report,High,Prepare presentation slides for the meeting,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Organize the home office,Personal
+Workout session,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Organize files,High,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Conduct performance reviews,Work
+Finish project report,Medium,Buy groceries for the week,Personal
+Doctor appointment,Medium,Send project status update to stakeholders,Work
+Call family,Medium,Buy groceries for the week,Personal
+Call family,High,Fix critical bugs in the system,Work
+Fix the sink,High,Schedule dentist appointment,Health
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Call family,Medium,Meditation and relaxation session,Health
+Call family,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Client follow-up,High,Gym session for strength training,Health
+Plan vacation,Medium,Go for a run in the park,Health
+Organize files,Low,Gym session for strength training,Health
+Organize files,High,Go for a run in the park,Health
+Organize files,Low,Schedule dentist appointment,Health
+Doctor appointment,Medium,Send project status update to stakeholders,Work
+Update website,Low,Go for a run in the park,Health
+Fix the sink,High,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Call family to check in,Personal
+Schedule team meeting,High,Meditation and relaxation session,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Fix the sink,Low,Go for a run in the park,Health
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Buy groceries for the week,Personal
+Schedule team meeting,High,Meditation and relaxation session,Health
+Clean the house,Low,Schedule dentist appointment,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Gym session for strength training,Health
+Call family,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Organize the home office,Personal
+Plan vacation,High,Meditation and relaxation session,Health
+Study for exam,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Finish project report,High,Complete end-of-quarter financial report,Work
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Call family,Medium,Organize the home office,Personal
+Clean the house,Medium,Call family to check in,Personal
+Doctor appointment,High,Send project status update to stakeholders,Work
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Study for exam,High,Meditation and relaxation session,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Call family,Medium,Call family to check in,Personal
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Organize files,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Buy groceries for the week,Personal
+Review pull requests,Low,Schedule dentist appointment,Health
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Buy groceries,Medium,Call family to check in,Personal
+Buy groceries,High,Schedule dentist appointment,Health
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Plan a weekend getaway,Personal
+Fix the sink,High,Conduct performance reviews,Work
+Buy groceries,Medium,Gym session for strength training,Health
+Update website,Medium,Go for a run in the park,Health
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Workout session,Medium,Call family to check in,Personal
+Doctor appointment,Low,Meditation and relaxation session,Health
+Doctor appointment,High,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Organize the home office,Personal
+Workout session,High,Meditation and relaxation session,Health
+Workout session,High,Send project status update to stakeholders,Work
+Call family,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Gym session for strength training,Health
+Client follow-up,High,Gym session for strength training,Health
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Study for exam,Medium,Send project status update to stakeholders,Work
+Organize files,Medium,Gym session for strength training,Health
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Workout session,Medium,Plan a weekend getaway,Personal
+Review pull requests,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,High,Fix critical bugs in the system,Work
+Schedule team meeting,Low,Go for a run in the park,Health
+Organize files,High,Send project status update to stakeholders,Work
+Update website,High,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Doctor appointment for annual checkup,Health
+Update website,High,Conduct performance reviews,Work
+Client follow-up,Medium,Conduct performance reviews,Work
+Organize files,High,Go for a run in the park,Health
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Meditation and relaxation session,Health
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Organize the home office,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Call family to check in,Personal
+Clean the house,Medium,Send project status update to stakeholders,Work
+Study for exam,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Organize the home office,Personal
+Buy groceries,Medium,Gym session for strength training,Health
+Organize files,Low,Go for a run in the park,Health
+Client follow-up,High,Go for a run in the park,Health
+Finish project report,High,Gym session for strength training,Health
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Low,Meditation and relaxation session,Health
+Review pull requests,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Schedule dentist appointment,Health
+Doctor appointment,High,Send project status update to stakeholders,Work
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Call family to check in,Personal
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Client follow-up,High,Go for a run in the park,Health
+Workout session,High,Send project status update to stakeholders,Work
+Organize files,High,Schedule dentist appointment,Health
+Update website,Medium,Conduct performance reviews,Work
+Update website,Medium,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Organize files,High,Conduct performance reviews,Work
+Review pull requests,Medium,Schedule dentist appointment,Health
+Doctor appointment,High,Go for a run in the park,Health
+Workout session,Low,Go for a run in the park,Health
+Organize files,Medium,Buy groceries for the week,Personal
+Study for exam,Low,Schedule dentist appointment,Health
+Client follow-up,Medium,Go for a run in the park,Health
+Workout session,High,Conduct performance reviews,Work
+Organize files,High,Conduct performance reviews,Work
+Buy groceries,High,Meditation and relaxation session,Health
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Call family,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Call family to check in,Personal
+Review pull requests,Medium,Doctor appointment for annual checkup,Health
+Update website,High,Conduct performance reviews,Work
+Call family,Low,Go for a run in the park,Health
+Review pull requests,Medium,Call family to check in,Personal
+Schedule team meeting,Medium,Organize the home office,Personal
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Buy groceries,Medium,Call family to check in,Personal
+Organize files,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Organize the home office,Personal
+Write blog post,Medium,Conduct performance reviews,Work
+Organize files,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Conduct performance reviews,Work
+Workout session,Medium,Buy groceries for the week,Personal
+Update website,Low,Gym session for strength training,Health
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Buy groceries,High,Meditation and relaxation session,Health
+Study for exam,Medium,Call family to check in,Personal
+Workout session,Medium,Schedule a dinner with friends,Personal
+Call family,Low,Go for a run in the park,Health
+Call family,Medium,Conduct performance reviews,Work
+Call family,Low,Meditation and relaxation session,Health
+Call family,Low,Doctor appointment for annual checkup,Health
+Plan vacation,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Call family to check in,Personal
+Workout session,Low,Meditation and relaxation session,Health
+Update website,High,Meditation and relaxation session,Health
+Organize files,High,Doctor appointment for annual checkup,Health
+Doctor appointment,High,Fix critical bugs in the system,Work
+Clean the house,Medium,Buy groceries for the week,Personal
+Review pull requests,High,Meditation and relaxation session,Health
+Workout session,Medium,Schedule dentist appointment,Health
+Update website,Medium,Call family to check in,Personal
+Call family,Medium,Go for a run in the park,Health
+Organize files,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Organize files,High,Prepare presentation slides for the meeting,Work
+Clean the house,High,Fix critical bugs in the system,Work
+Plan vacation,Medium,Go for a run in the park,Health
+Call family,Low,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Call family,Medium,Gym session for strength training,Health
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Call family,Low,Doctor appointment for annual checkup,Health
+Review pull requests,Medium,Go for a run in the park,Health
+Study for exam,Medium,Meditation and relaxation session,Health
+Finish project report,Low,Schedule dentist appointment,Health
+Workout session,Medium,Call family to check in,Personal
+Clean the house,Medium,Call family to check in,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Call family,Low,Gym session for strength training,Health
+Buy groceries,Medium,Call family to check in,Personal
+Call family,High,Conduct performance reviews,Work
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Fix the sink,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Call family to check in,Personal
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,High,Send project status update to stakeholders,Work
+Clean the house,High,Fix critical bugs in the system,Work
+Update website,Medium,Gym session for strength training,Health
+Review pull requests,Low,Gym session for strength training,Health
+Clean the house,High,Meditation and relaxation session,Health
+Clean the house,Medium,Conduct performance reviews,Work
+Finish project report,Low,Go for a run in the park,Health
+Review pull requests,Medium,Prepare presentation slides for the meeting,Work
+Clean the house,Medium,Organize the home office,Personal
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Workout session,Low,Meditation and relaxation session,Health
+Organize files,Medium,Fix critical bugs in the system,Work
+Doctor appointment,High,Conduct performance reviews,Work
+Organize files,High,Complete end-of-quarter financial report,Work
+Buy groceries,High,Doctor appointment for annual checkup,Health
+Call family,Medium,Buy groceries for the week,Personal
+Update website,Medium,Call family to check in,Personal
+Update website,High,Send project status update to stakeholders,Work
+Call family,Medium,Organize the home office,Personal
+Review pull requests,High,Doctor appointment for annual checkup,Health
+Fix the sink,Low,Gym session for strength training,Health
+Client follow-up,High,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Buy groceries,Low,Gym session for strength training,Health
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Go for a run in the park,Health
+Organize files,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Low,Gym session for strength training,Health
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Organize files,High,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Organize the home office,Personal
+Doctor appointment,High,Conduct performance reviews,Work
+Call family,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Call family to check in,Personal
+Organize files,Medium,Buy groceries for the week,Personal
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Schedule dentist appointment,Health
+Write blog post,Medium,Organize the home office,Personal
+Study for exam,Medium,Call family to check in,Personal
+Clean the house,Medium,Conduct performance reviews,Work
+Update website,Medium,Go for a run in the park,Health
+Client follow-up,Medium,Complete end-of-quarter financial report,Work
+Review pull requests,Low,Meditation and relaxation session,Health
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Call family,High,Fix critical bugs in the system,Work
+Review pull requests,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Call family to check in,Personal
+Fix the sink,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Fix the sink,Low,Meditation and relaxation session,Health
+Organize files,Medium,Call family to check in,Personal
+Schedule team meeting,Medium,Send project status update to stakeholders,Work
+Call family,High,Send project status update to stakeholders,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Buy groceries,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Meditation and relaxation session,Health
+Finish project report,Medium,Go for a run in the park,Health
+Organize files,High,Schedule dentist appointment,Health
+Update website,Medium,Go for a run in the park,Health
+Update website,Medium,Buy groceries for the week,Personal
+Organize files,Medium,Gym session for strength training,Health
+Schedule team meeting,Medium,Send project status update to stakeholders,Work
+Buy groceries,High,Send project status update to stakeholders,Work
+Doctor appointment,High,Conduct performance reviews,Work
+Review pull requests,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Send project status update to stakeholders,Work
+Update website,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Buy groceries for the week,Personal
+Call family,Medium,Call family to check in,Personal
+Workout session,Low,Gym session for strength training,Health
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Organize the home office,Personal
+Client follow-up,Medium,Conduct performance reviews,Work
+Update website,Medium,Call family to check in,Personal
+Update website,Medium,Go for a run in the park,Health
+Update website,Medium,Doctor appointment for annual checkup,Health
+Clean the house,High,Go for a run in the park,Health
+Call family,Medium,Organize the home office,Personal
+Plan vacation,Low,Meditation and relaxation session,Health
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Organize the home office,Personal
+Fix the sink,Medium,Organize the home office,Personal
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Buy groceries for the week,Personal
+Call family,Low,Meditation and relaxation session,Health
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Organize files,Low,Meditation and relaxation session,Health
+Finish project report,High,Doctor appointment for annual checkup,Health
+Review pull requests,Medium,Gym session for strength training,Health
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Organize the home office,Personal
+Workout session,High,Complete end-of-quarter financial report,Work
+Clean the house,High,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Update website,High,Conduct performance reviews,Work
+Organize files,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Call family to check in,Personal
+Workout session,Medium,Fix critical bugs in the system,Work
+Plan vacation,High,Send project status update to stakeholders,Work
+Clean the house,High,Gym session for strength training,Health
+Buy groceries,Low,Meditation and relaxation session,Health
+Fix the sink,Medium,Call family to check in,Personal
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Workout session,Low,Gym session for strength training,Health
+Clean the house,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Organize the home office,Personal
+Call family,High,Fix critical bugs in the system,Work
+Call family,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Write blog post,Low,Schedule dentist appointment,Health
+Organize files,Low,Schedule dentist appointment,Health
+Organize files,Medium,Buy groceries for the week,Personal
+Fix the sink,High,Schedule dentist appointment,Health
+Buy groceries,High,Fix critical bugs in the system,Work
+Fix the sink,Low,Meditation and relaxation session,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Update website,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Doctor appointment for annual checkup,Health
+Write blog post,High,Complete end-of-quarter financial report,Work
+Call family,Medium,Call family to check in,Personal
+Write blog post,Medium,Go for a run in the park,Health
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Buy groceries,Low,Go for a run in the park,Health
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Update website,High,Complete end-of-quarter financial report,Work
+Clean the house,High,Send project status update to stakeholders,Work
+Fix the sink,Low,Schedule dentist appointment,Health
+Organize files,Medium,Schedule a dinner with friends,Personal
+Review pull requests,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,High,Schedule dentist appointment,Health
+Doctor appointment,Medium,Gym session for strength training,Health
+Finish project report,Medium,Meditation and relaxation session,Health
+Doctor appointment,Medium,Conduct performance reviews,Work
+Workout session,Medium,Plan a weekend getaway,Personal
+Organize files,High,Fix critical bugs in the system,Work
+Doctor appointment,High,Fix critical bugs in the system,Work
+Write blog post,High,Meditation and relaxation session,Health
+Write blog post,Medium,Send project status update to stakeholders,Work
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Buy groceries,High,Schedule dentist appointment,Health
+Organize files,High,Doctor appointment for annual checkup,Health
+Workout session,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Organize files,High,Fix critical bugs in the system,Work
+Client follow-up,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Gym session for strength training,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Call family to check in,Personal
+Organize files,High,Doctor appointment for annual checkup,Health
+Call family,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Gym session for strength training,Health
+Update website,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,High,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Plan a weekend getaway,Personal
+Update website,Medium,Organize the home office,Personal
+Schedule team meeting,Low,Doctor appointment for annual checkup,Health
+Organize files,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Organize the home office,Personal
+Schedule team meeting,Low,Gym session for strength training,Health
+Update website,High,Doctor appointment for annual checkup,Health
+Workout session,High,Send project status update to stakeholders,Work
+Call family,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Send project status update to stakeholders,Work
+Organize files,Medium,Schedule dentist appointment,Health
+Study for exam,High,Meditation and relaxation session,Health
+Call family,High,Meditation and relaxation session,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Organize the home office,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Organize files,High,Conduct performance reviews,Work
+Organize files,High,Meditation and relaxation session,Health
+Fix the sink,Medium,Go for a run in the park,Health
+Workout session,High,Go for a run in the park,Health
+Workout session,Medium,Organize the home office,Personal
+Organize files,Medium,Conduct performance reviews,Work
+Update website,High,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Workout session,Medium,Organize the home office,Personal
+Doctor appointment,Medium,Organize the home office,Personal
+Update website,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Gym session for strength training,Health
+Clean the house,Low,Meditation and relaxation session,Health
+Plan vacation,Medium,Organize the home office,Personal
+Update website,Medium,Send project status update to stakeholders,Work
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Low,Go for a run in the park,Health
+Fix the sink,Low,Gym session for strength training,Health
+Plan vacation,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Gym session for strength training,Health
+Clean the house,Medium,Conduct performance reviews,Work
+Clean the house,Medium,Organize the home office,Personal
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Organize the home office,Personal
+Write blog post,Medium,Call family to check in,Personal
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Client follow-up,High,Conduct performance reviews,Work
+Fix the sink,High,Meditation and relaxation session,Health
+Plan vacation,High,Meditation and relaxation session,Health
+Workout session,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Write blog post,High,Schedule dentist appointment,Health
+Write blog post,Medium,Call family to check in,Personal
+Call family,High,Doctor appointment for annual checkup,Health
+Buy groceries,Medium,Call family to check in,Personal
+Workout session,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Review pull requests,High,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Conduct performance reviews,Work
+Finish project report,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Conduct performance reviews,Work
+Workout session,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Study for exam,Medium,Organize the home office,Personal
+Update website,Low,Gym session for strength training,Health
+Buy groceries,High,Gym session for strength training,Health
+Write blog post,Low,Doctor appointment for annual checkup,Health
+Organize files,Medium,Call family to check in,Personal
+Finish project report,Medium,Call family to check in,Personal
+Plan vacation,High,Gym session for strength training,Health
+Clean the house,Medium,Gym session for strength training,Health
+Finish project report,Medium,Meditation and relaxation session,Health
+Finish project report,Low,Gym session for strength training,Health
+Finish project report,High,Schedule dentist appointment,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Go for a run in the park,Health
+Workout session,Medium,Conduct performance reviews,Work
+Workout session,High,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Buy groceries for the week,Personal
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Update website,Low,Go for a run in the park,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Go for a run in the park,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Organize the home office,Personal
+Buy groceries,High,Meditation and relaxation session,Health
+Client follow-up,Medium,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Client follow-up,High,Fix critical bugs in the system,Work
+Plan vacation,Medium,Go for a run in the park,Health
+Call family,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Go for a run in the park,Health
+Workout session,Medium,Go for a run in the park,Health
+Study for exam,Medium,Organize the home office,Personal
+Organize files,Medium,Conduct performance reviews,Work
+Write blog post,Medium,Go for a run in the park,Health
+Plan vacation,Medium,Fix critical bugs in the system,Work
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Meditation and relaxation session,Health
+Study for exam,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Client follow-up,Low,Schedule dentist appointment,Health
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Buy groceries,Medium,Go for a run in the park,Health
+Plan vacation,Medium,Buy groceries for the week,Personal
+Study for exam,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Clean the house,High,Schedule dentist appointment,Health
+Write blog post,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Doctor appointment,High,Send project status update to stakeholders,Work
+Study for exam,Medium,Call family to check in,Personal
+Client follow-up,Low,Meditation and relaxation session,Health
+Clean the house,Low,Meditation and relaxation session,Health
+Write blog post,Medium,Go for a run in the park,Health
+Client follow-up,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Buy groceries for the week,Personal
+Workout session,High,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Organize the home office,Personal
+Organize files,Low,Gym session for strength training,Health
+Buy groceries,Medium,Conduct performance reviews,Work
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Study for exam,Medium,Organize the home office,Personal
+Doctor appointment,Low,Meditation and relaxation session,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Low,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Call family to check in,Personal
+Plan vacation,Medium,Call family to check in,Personal
+Call family,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Clean the house,Low,Meditation and relaxation session,Health
+Client follow-up,Medium,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Organize the home office,Personal
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Low,Meditation and relaxation session,Health
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Write blog post,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Schedule dentist appointment,Health
+Buy groceries,Medium,Gym session for strength training,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Go for a run in the park,Health
+Call family,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,High,Send project status update to stakeholders,Work
+Call family,Medium,Call family to check in,Personal
+Update website,High,Fix critical bugs in the system,Work
+Organize files,Medium,Schedule dentist appointment,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Review pull requests,Medium,Conduct performance reviews,Work
+Study for exam,Medium,Doctor appointment for annual checkup,Health
+Doctor appointment,High,Send project status update to stakeholders,Work
+Finish project report,Low,Meditation and relaxation session,Health
+Workout session,Low,Go for a run in the park,Health
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Go for a run in the park,Health
+Buy groceries,Medium,Go for a run in the park,Health
+Finish project report,High,Conduct performance reviews,Work
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Call family,Medium,Fix critical bugs in the system,Work
+Fix the sink,High,Meditation and relaxation session,Health
+Update website,Medium,Schedule a dinner with friends,Personal
+Call family,Medium,Prepare presentation slides for the meeting,Work
+Update website,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Send project status update to stakeholders,Work
+Clean the house,Medium,Go for a run in the park,Health
+Clean the house,High,Meditation and relaxation session,Health
+Workout session,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Organize the home office,Personal
+Call family,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Low,Gym session for strength training,Health
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Doctor appointment,High,Complete end-of-quarter financial report,Work
+Workout session,Medium,Buy groceries for the week,Personal
+Organize files,Medium,Send project status update to stakeholders,Work
+Review pull requests,High,Schedule dentist appointment,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Clean the house,High,Send project status update to stakeholders,Work
+Write blog post,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Organize the home office,Personal
+Client follow-up,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Plan a weekend getaway,Personal
+Buy groceries,Low,Schedule dentist appointment,Health
+Review pull requests,Low,Schedule dentist appointment,Health
+Plan vacation,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Call family,Medium,Conduct performance reviews,Work
+Organize files,Medium,Send project status update to stakeholders,Work
+Plan vacation,Low,Schedule dentist appointment,Health
+Doctor appointment,Low,Go for a run in the park,Health
+Client follow-up,Medium,Organize the home office,Personal
+Update website,High,Conduct performance reviews,Work
+Write blog post,High,Schedule dentist appointment,Health
+Workout session,Medium,Doctor appointment for annual checkup,Health
+Client follow-up,Medium,Go for a run in the park,Health
+Write blog post,High,Send project status update to stakeholders,Work
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Organize the home office,Personal
+Call family,Low,Gym session for strength training,Health
+Write blog post,Low,Gym session for strength training,Health
+Doctor appointment,High,Go for a run in the park,Health
+Schedule team meeting,Medium,Call family to check in,Personal
+Organize files,High,Doctor appointment for annual checkup,Health
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Review pull requests,High,Gym session for strength training,Health
+Write blog post,Medium,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Fix critical bugs in the system,Work
+Review pull requests,Medium,Call family to check in,Personal
+Organize files,High,Fix critical bugs in the system,Work
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Call family,Medium,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Workout session,Medium,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Call family to check in,Personal
+Fix the sink,High,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Go for a run in the park,Health
+Fix the sink,Medium,Buy groceries for the week,Personal
+Clean the house,High,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Doctor appointment,Low,Go for a run in the park,Health
+Write blog post,High,Send project status update to stakeholders,Work
+Organize files,Medium,Buy groceries for the week,Personal
+Doctor appointment,Medium,Go for a run in the park,Health
+Workout session,Medium,Go for a run in the park,Health
+Schedule team meeting,High,Go for a run in the park,Health
+Buy groceries,Low,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Call family to check in,Personal
+Buy groceries,High,Fix critical bugs in the system,Work
+Client follow-up,Medium,Organize the home office,Personal
+Fix the sink,High,Fix critical bugs in the system,Work
+Client follow-up,Medium,Doctor appointment for annual checkup,Health
+Finish project report,High,Fix critical bugs in the system,Work
+Doctor appointment,Low,Schedule dentist appointment,Health
+Finish project report,Medium,Gym session for strength training,Health
+Update website,Low,Gym session for strength training,Health
+Write blog post,Low,Meditation and relaxation session,Health
+Organize files,Medium,Schedule dentist appointment,Health
+Write blog post,Medium,Schedule dentist appointment,Health
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Clean the house,Medium,Meditation and relaxation session,Health
+Workout session,Medium,Schedule a dinner with friends,Personal
+Finish project report,Low,Go for a run in the park,Health
+Workout session,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Go for a run in the park,Health
+Update website,High,Go for a run in the park,Health
+Study for exam,Medium,Schedule dentist appointment,Health
+Fix the sink,Low,Go for a run in the park,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Buy groceries,Medium,Schedule dentist appointment,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Schedule dentist appointment,Health
+Clean the house,Medium,Organize the home office,Personal
+Study for exam,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Clean the house,High,Send project status update to stakeholders,Work
+Write blog post,High,Doctor appointment for annual checkup,Health
+Client follow-up,Medium,Call family to check in,Personal
+Buy groceries,Low,Doctor appointment for annual checkup,Health
+Organize files,High,Send project status update to stakeholders,Work
+Client follow-up,High,Go for a run in the park,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Workout session,Low,Meditation and relaxation session,Health
+Call family,Medium,Buy groceries for the week,Personal
+Update website,Medium,Call family to check in,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Review pull requests,High,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Workout session,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Buy groceries,Medium,Gym session for strength training,Health
+Update website,Medium,Organize the home office,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Organize files,Medium,Organize the home office,Personal
+Workout session,Medium,Send project status update to stakeholders,Work
+Update website,High,Gym session for strength training,Health
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Finish project report,Medium,Go for a run in the park,Health
+Workout session,High,Schedule dentist appointment,Health
+Schedule team meeting,High,Conduct performance reviews,Work
+Plan vacation,Medium,Organize the home office,Personal
+Call family,Low,Meditation and relaxation session,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Conduct performance reviews,Work
+Call family,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Gym session for strength training,Health
+Clean the house,High,Fix critical bugs in the system,Work
+Write blog post,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Organize files,High,Go for a run in the park,Health
+Finish project report,Medium,Call family to check in,Personal
+Doctor appointment,Low,Gym session for strength training,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Workout session,Medium,Call family to check in,Personal
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Organize the home office,Personal
+Workout session,Medium,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Plan a weekend getaway,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Buy groceries,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Organize the home office,Personal
+Client follow-up,Medium,Buy groceries for the week,Personal
+Doctor appointment,Low,Go for a run in the park,Health
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Buy groceries,High,Schedule dentist appointment,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,High,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,High,Schedule dentist appointment,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Clean the house,High,Meditation and relaxation session,Health
+Fix the sink,Medium,Send project status update to stakeholders,Work
+Plan vacation,Medium,Buy groceries for the week,Personal
+Write blog post,High,Schedule dentist appointment,Health
+Study for exam,High,Send project status update to stakeholders,Work
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Study for exam,Low,Schedule dentist appointment,Health
+Fix the sink,Low,Go for a run in the park,Health
+Call family,High,Meditation and relaxation session,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Send project status update to stakeholders,Work
+Write blog post,Medium,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Organize files,Medium,Go for a run in the park,Health
+Finish project report,Medium,Plan a weekend getaway,Personal
+Update website,High,Gym session for strength training,Health
+Client follow-up,High,Fix critical bugs in the system,Work
+Organize files,Medium,Plan a weekend getaway,Personal
+Clean the house,Low,Go for a run in the park,Health
+Review pull requests,High,Fix critical bugs in the system,Work
+Update website,Medium,Organize the home office,Personal
+Workout session,Medium,Fix critical bugs in the system,Work
+Update website,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Schedule dentist appointment,Health
+Workout session,High,Gym session for strength training,Health
+Plan vacation,High,Fix critical bugs in the system,Work
+Fix the sink,Low,Meditation and relaxation session,Health
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Doctor appointment for annual checkup,Health
+Schedule team meeting,High,Go for a run in the park,Health
+Update website,Medium,Organize the home office,Personal
+Organize files,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Call family to check in,Personal
+Buy groceries,High,Gym session for strength training,Health
+Write blog post,High,Conduct performance reviews,Work
+Review pull requests,High,Schedule dentist appointment,Health
+Workout session,Medium,Conduct performance reviews,Work
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Workout session,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Conduct performance reviews,Work
+Call family,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Organize files,Low,Doctor appointment for annual checkup,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Conduct performance reviews,Work
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Update website,High,Complete end-of-quarter financial report,Work
+Workout session,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Doctor appointment for annual checkup,Health
+Doctor appointment,High,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Doctor appointment,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Buy groceries,Low,Schedule dentist appointment,Health
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Clean the house,High,Schedule dentist appointment,Health
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Low,Go for a run in the park,Health
+Workout session,Medium,Doctor appointment for annual checkup,Health
+Workout session,Medium,Gym session for strength training,Health
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Client follow-up,Medium,Meditation and relaxation session,Health
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Buy groceries,Medium,Conduct performance reviews,Work
+Client follow-up,High,Doctor appointment for annual checkup,Health
+Workout session,High,Complete end-of-quarter financial report,Work
+Organize files,Low,Gym session for strength training,Health
+Organize files,Medium,Gym session for strength training,Health
+Doctor appointment,High,Conduct performance reviews,Work
+Update website,High,Conduct performance reviews,Work
+Update website,Medium,Fix critical bugs in the system,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Conduct performance reviews,Work
+Finish project report,Medium,Go for a run in the park,Health
+Call family,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Call family to check in,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Organize the home office,Personal
+Client follow-up,High,Fix critical bugs in the system,Work
+Client follow-up,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Update website,Medium,Schedule a dinner with friends,Personal
+Write blog post,High,Fix critical bugs in the system,Work
+Buy groceries,Medium,Buy groceries for the week,Personal
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Conduct performance reviews,Work
+Fix the sink,Low,Schedule dentist appointment,Health
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Client follow-up,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Gym session for strength training,Health
+Organize files,Medium,Gym session for strength training,Health
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Update website,High,Complete end-of-quarter financial report,Work
+Study for exam,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Conduct performance reviews,Work
+Study for exam,High,Send project status update to stakeholders,Work
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Low,Meditation and relaxation session,Health
+Study for exam,Low,Meditation and relaxation session,Health
+Client follow-up,Medium,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Organize the home office,Personal
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Update website,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Call family to check in,Personal
+Fix the sink,Medium,Gym session for strength training,Health
+Schedule team meeting,Medium,Organize the home office,Personal
+Fix the sink,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Call family to check in,Personal
+Workout session,Medium,Plan a weekend getaway,Personal
+Client follow-up,High,Go for a run in the park,Health
+Update website,High,Meditation and relaxation session,Health
+Write blog post,Low,Go for a run in the park,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Call family to check in,Personal
+Doctor appointment,Low,Go for a run in the park,Health
+Review pull requests,High,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Gym session for strength training,Health
+Call family,Medium,Organize the home office,Personal
+Fix the sink,High,Conduct performance reviews,Work
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Organize the home office,Personal
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Organize the home office,Personal
+Update website,Medium,Conduct performance reviews,Work
+Doctor appointment,High,Go for a run in the park,Health
+Update website,Medium,Conduct performance reviews,Work
+Finish project report,High,Complete end-of-quarter financial report,Work
+Clean the house,Low,Meditation and relaxation session,Health
+Update website,Low,Meditation and relaxation session,Health
+Workout session,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,High,Go for a run in the park,Health
+Finish project report,Medium,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Update website,Medium,Fix critical bugs in the system,Work
+Finish project report,Medium,Organize the home office,Personal
+Clean the house,Medium,Meditation and relaxation session,Health
+Write blog post,High,Schedule dentist appointment,Health
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Buy groceries,Low,Gym session for strength training,Health
+Review pull requests,Medium,Organize the home office,Personal
+Client follow-up,Medium,Call family to check in,Personal
+Workout session,Medium,Send project status update to stakeholders,Work
+Workout session,High,Gym session for strength training,Health
+Plan vacation,Low,Gym session for strength training,Health
+Organize files,Medium,Buy groceries for the week,Personal
+Update website,Medium,Buy groceries for the week,Personal
+Call family,High,Complete end-of-quarter financial report,Work
+Plan vacation,High,Gym session for strength training,Health
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Call family to check in,Personal
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Clean the house,High,Conduct performance reviews,Work
+Review pull requests,Medium,Organize the home office,Personal
+Schedule team meeting,High,Schedule dentist appointment,Health
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Buy groceries for the week,Personal
+Workout session,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Schedule dentist appointment,Health
+Organize files,High,Gym session for strength training,Health
+Organize files,Medium,Go for a run in the park,Health
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Schedule dentist appointment,Health
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Review pull requests,Low,Doctor appointment for annual checkup,Health
+Workout session,Medium,Meditation and relaxation session,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Doctor appointment,Low,Schedule dentist appointment,Health
+Call family,Medium,Go for a run in the park,Health
+Study for exam,Medium,Schedule dentist appointment,Health
+Doctor appointment,High,Gym session for strength training,Health
+Review pull requests,High,Send project status update to stakeholders,Work
+Plan vacation,Medium,Go for a run in the park,Health
+Buy groceries,Low,Meditation and relaxation session,Health
+Buy groceries,Medium,Complete end-of-quarter financial report,Work
+Clean the house,Low,Meditation and relaxation session,Health
+Write blog post,High,Conduct performance reviews,Work
+Review pull requests,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Finish project report,Medium,Call family to check in,Personal
+Workout session,High,Send project status update to stakeholders,Work
+Call family,High,Prepare presentation slides for the meeting,Work
+Study for exam,Low,Schedule dentist appointment,Health
+Client follow-up,High,Meditation and relaxation session,Health
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Update website,Medium,Meditation and relaxation session,Health
+Update website,Medium,Fix critical bugs in the system,Work
+Update website,High,Doctor appointment for annual checkup,Health
+Finish project report,High,Conduct performance reviews,Work
+Plan vacation,High,Send project status update to stakeholders,Work
+Write blog post,Medium,Send project status update to stakeholders,Work
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Workout session,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Call family to check in,Personal
+Update website,High,Complete end-of-quarter financial report,Work
+Organize files,Medium,Call family to check in,Personal
+Update website,Medium,Organize the home office,Personal
+Workout session,Medium,Schedule dentist appointment,Health
+Review pull requests,Medium,Doctor appointment for annual checkup,Health
+Buy groceries,Low,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Call family,High,Conduct performance reviews,Work
+Buy groceries,Low,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Call family,Medium,Fix critical bugs in the system,Work
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Conduct performance reviews,Work
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Fix critical bugs in the system,Work
+Update website,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Study for exam,High,Schedule dentist appointment,Health
+Finish project report,High,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Send project status update to stakeholders,Work
+Doctor appointment,Low,Meditation and relaxation session,Health
+Plan vacation,Medium,Conduct performance reviews,Work
+Update website,Medium,Fix critical bugs in the system,Work
+Review pull requests,Medium,Doctor appointment for annual checkup,Health
+Call family,High,Schedule dentist appointment,Health
+Plan vacation,High,Schedule dentist appointment,Health
+Study for exam,High,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Gym session for strength training,Health
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Gym session for strength training,Health
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Study for exam,High,Send project status update to stakeholders,Work
+Write blog post,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Organize the home office,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,High,Schedule dentist appointment,Health
+Fix the sink,Low,Doctor appointment for annual checkup,Health
+Finish project report,High,Meditation and relaxation session,Health
+Finish project report,High,Conduct performance reviews,Work
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Go for a run in the park,Health
+Organize files,High,Go for a run in the park,Health
+Fix the sink,High,Meditation and relaxation session,Health
+Finish project report,High,Meditation and relaxation session,Health
+Write blog post,Medium,Prepare presentation slides for the meeting,Work
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Update website,Low,Schedule dentist appointment,Health
+Call family,Medium,Conduct performance reviews,Work
+Workout session,Low,Schedule dentist appointment,Health
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Call family to check in,Personal
+Buy groceries,High,Send project status update to stakeholders,Work
+Call family,Medium,Conduct performance reviews,Work
+Update website,Low,Meditation and relaxation session,Health
+Workout session,Medium,Call family to check in,Personal
+Buy groceries,High,Doctor appointment for annual checkup,Health
+Review pull requests,Medium,Call family to check in,Personal
+Fix the sink,High,Gym session for strength training,Health
+Workout session,Medium,Go for a run in the park,Health
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Gym session for strength training,Health
+Doctor appointment,Low,Meditation and relaxation session,Health
+Study for exam,Medium,Go for a run in the park,Health
+Finish project report,High,Complete end-of-quarter financial report,Work
+Plan vacation,High,Schedule dentist appointment,Health
+Review pull requests,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,High,Send project status update to stakeholders,Work
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Conduct performance reviews,Work
+Study for exam,High,Conduct performance reviews,Work
+Write blog post,High,Go for a run in the park,Health
+Update website,High,Complete end-of-quarter financial report,Work
+Organize files,Medium,Gym session for strength training,Health
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Buy groceries,High,Conduct performance reviews,Work
+Clean the house,Medium,Fix critical bugs in the system,Work
+Finish project report,Medium,Fix critical bugs in the system,Work
+Write blog post,Medium,Plan a weekend getaway,Personal
+Write blog post,High,Meditation and relaxation session,Health
+Clean the house,Medium,Call family to check in,Personal
+Schedule team meeting,Low,Meditation and relaxation session,Health
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Conduct performance reviews,Work
+Buy groceries,Medium,Call family to check in,Personal
+Doctor appointment,High,Send project status update to stakeholders,Work
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Finish project report,Low,Meditation and relaxation session,Health
+Study for exam,Low,Gym session for strength training,Health
+Workout session,High,Fix critical bugs in the system,Work
+Review pull requests,Low,Meditation and relaxation session,Health
+Workout session,Medium,Organize the home office,Personal
+Schedule team meeting,High,Send project status update to stakeholders,Work
+Call family,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Go for a run in the park,Health
+Schedule team meeting,Medium,Schedule dentist appointment,Health
+Call family,Medium,Organize the home office,Personal
+Study for exam,Medium,Send project status update to stakeholders,Work
+Client follow-up,High,Conduct performance reviews,Work
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Call family to check in,Personal
+Fix the sink,Medium,Call family to check in,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,High,Schedule dentist appointment,Health
+Client follow-up,Medium,Schedule dentist appointment,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Review pull requests,Low,Meditation and relaxation session,Health
+Call family,Medium,Complete end-of-quarter financial report,Work
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Gym session for strength training,Health
+Write blog post,High,Complete end-of-quarter financial report,Work
+Buy groceries,Medium,Doctor appointment for annual checkup,Health
+Workout session,Low,Meditation and relaxation session,Health
+Finish project report,Medium,Send project status update to stakeholders,Work
+Update website,High,Meditation and relaxation session,Health
+Write blog post,Medium,Organize the home office,Personal
+Write blog post,Medium,Send project status update to stakeholders,Work
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Update website,Medium,Call family to check in,Personal
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,High,Fix critical bugs in the system,Work
+Clean the house,High,Conduct performance reviews,Work
+Plan vacation,High,Go for a run in the park,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Call family to check in,Personal
+Fix the sink,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Organize the home office,Personal
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Organize the home office,Personal
+Clean the house,Medium,Organize the home office,Personal
+Fix the sink,High,Complete end-of-quarter financial report,Work
+Workout session,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,High,Doctor appointment for annual checkup,Health
+Finish project report,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Organize the home office,Personal
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Plan vacation,Low,Doctor appointment for annual checkup,Health
+Study for exam,High,Send project status update to stakeholders,Work
+Review pull requests,Medium,Organize the home office,Personal
+Write blog post,Medium,Organize the home office,Personal
+Study for exam,High,Schedule dentist appointment,Health
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Go for a run in the park,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Call family,Low,Gym session for strength training,Health
+Study for exam,Medium,Call family to check in,Personal
+Clean the house,Medium,Call family to check in,Personal
+Doctor appointment,High,Go for a run in the park,Health
+Fix the sink,Medium,Go for a run in the park,Health
+Update website,Low,Gym session for strength training,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Organize the home office,Personal
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Write blog post,Low,Go for a run in the park,Health
+Plan vacation,Medium,Meditation and relaxation session,Health
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Update website,High,Send project status update to stakeholders,Work
+Buy groceries,Low,Schedule dentist appointment,Health
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Call family to check in,Personal
+Doctor appointment,High,Schedule dentist appointment,Health
+Schedule team meeting,High,Gym session for strength training,Health
+Client follow-up,High,Fix critical bugs in the system,Work
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Buy groceries,High,Conduct performance reviews,Work
+Update website,Medium,Organize the home office,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Client follow-up,Medium,Doctor appointment for annual checkup,Health
+Finish project report,Low,Go for a run in the park,Health
+Plan vacation,High,Conduct performance reviews,Work
+Clean the house,High,Complete end-of-quarter financial report,Work
+Fix the sink,High,Fix critical bugs in the system,Work
+Organize files,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Gym session for strength training,Health
+Study for exam,Medium,Call family to check in,Personal
+Doctor appointment,High,Conduct performance reviews,Work
+Schedule team meeting,High,Send project status update to stakeholders,Work
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Write blog post,High,Send project status update to stakeholders,Work
+Finish project report,High,Send project status update to stakeholders,Work
+Finish project report,Medium,Gym session for strength training,Health
+Plan vacation,Medium,Buy groceries for the week,Personal
+Clean the house,High,Fix critical bugs in the system,Work
+Review pull requests,Medium,Buy groceries for the week,Personal
+Finish project report,Medium,Fix critical bugs in the system,Work
+Client follow-up,Medium,Doctor appointment for annual checkup,Health
+Buy groceries,High,Meditation and relaxation session,Health
+Buy groceries,Low,Meditation and relaxation session,Health
+Fix the sink,Medium,Go for a run in the park,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Review pull requests,High,Go for a run in the park,Health
+Call family,Medium,Gym session for strength training,Health
+Organize files,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,High,Conduct performance reviews,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Send project status update to stakeholders,Work
+Study for exam,Low,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Gym session for strength training,Health
+Buy groceries,Low,Go for a run in the park,Health
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Study for exam,High,Fix critical bugs in the system,Work
+Study for exam,High,Send project status update to stakeholders,Work
+Update website,High,Doctor appointment for annual checkup,Health
+Buy groceries,Medium,Complete end-of-quarter financial report,Work
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Client follow-up,High,Doctor appointment for annual checkup,Health
+Organize files,High,Schedule dentist appointment,Health
+Buy groceries,Medium,Organize the home office,Personal
+Write blog post,High,Doctor appointment for annual checkup,Health
+Update website,High,Doctor appointment for annual checkup,Health
+Update website,Medium,Organize the home office,Personal
+Schedule team meeting,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Send project status update to stakeholders,Work
+Organize files,Low,Gym session for strength training,Health
+Client follow-up,High,Send project status update to stakeholders,Work
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Review pull requests,High,Gym session for strength training,Health
+Workout session,Low,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Doctor appointment,Low,Gym session for strength training,Health
+Buy groceries,Medium,Call family to check in,Personal
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Call family,High,Complete end-of-quarter financial report,Work
+Call family,Low,Go for a run in the park,Health
+Study for exam,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Meditation and relaxation session,Health
+Write blog post,Low,Schedule dentist appointment,Health
+Study for exam,Low,Gym session for strength training,Health
+Schedule team meeting,Low,Meditation and relaxation session,Health
+Doctor appointment,Medium,Organize the home office,Personal
+Organize files,High,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Doctor appointment for annual checkup,Health
+Organize files,High,Go for a run in the park,Health
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Workout session,High,Send project status update to stakeholders,Work
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Conduct performance reviews,Work
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Meditation and relaxation session,Health
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Medium,Conduct performance reviews,Work
+Finish project report,Low,Gym session for strength training,Health
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Organize files,Medium,Conduct performance reviews,Work
+Call family,Low,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Go for a run in the park,Health
+Review pull requests,High,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Call family to check in,Personal
+Update website,Medium,Schedule a dinner with friends,Personal
+Finish project report,High,Gym session for strength training,Health
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Call family,Medium,Gym session for strength training,Health
+Finish project report,High,Conduct performance reviews,Work
+Update website,High,Send project status update to stakeholders,Work
+Update website,Medium,Call family to check in,Personal
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Write blog post,High,Fix critical bugs in the system,Work
+Client follow-up,Low,Meditation and relaxation session,Health
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Organize files,Low,Schedule dentist appointment,Health
+Update website,High,Schedule dentist appointment,Health
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Finish project report,Low,Schedule dentist appointment,Health
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Update website,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Doctor appointment for annual checkup,Health
+Finish project report,High,Schedule dentist appointment,Health
+Fix the sink,Medium,Doctor appointment for annual checkup,Health
+Organize files,Medium,Prepare presentation slides for the meeting,Work
+Buy groceries,High,Go for a run in the park,Health
+Call family,Medium,Schedule a dinner with friends,Personal
+Update website,High,Gym session for strength training,Health
+Organize files,High,Fix critical bugs in the system,Work
+Organize files,Low,Gym session for strength training,Health
+Call family,Medium,Organize the home office,Personal
+Clean the house,Medium,Organize the home office,Personal
+Fix the sink,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Call family to check in,Personal
+Call family,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Study for exam,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Update website,Medium,Schedule a dinner with friends,Personal
+Workout session,High,Prepare presentation slides for the meeting,Work
+Fix the sink,High,Schedule dentist appointment,Health
+Call family,Medium,Doctor appointment for annual checkup,Health
+Clean the house,Low,Go for a run in the park,Health
+Call family,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Go for a run in the park,Health
+Fix the sink,High,Conduct performance reviews,Work
+Review pull requests,High,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Update website,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Workout session,High,Doctor appointment for annual checkup,Health
+Update website,Medium,Gym session for strength training,Health
+Finish project report,Medium,Buy groceries for the week,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Fix the sink,High,Conduct performance reviews,Work
+Write blog post,High,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Gym session for strength training,Health
+Write blog post,High,Send project status update to stakeholders,Work
+Client follow-up,Medium,Send project status update to stakeholders,Work
+Review pull requests,Low,Go for a run in the park,Health
+Update website,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Organize files,High,Complete end-of-quarter financial report,Work
+Workout session,Medium,Gym session for strength training,Health
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Organize files,Medium,Organize the home office,Personal
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Workout session,Medium,Conduct performance reviews,Work
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Study for exam,High,Conduct performance reviews,Work
+Clean the house,Low,Gym session for strength training,Health
+Review pull requests,Medium,Call family to check in,Personal
+Update website,High,Prepare presentation slides for the meeting,Work
+Update website,Medium,Call family to check in,Personal
+Call family,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Gym session for strength training,Health
+Schedule team meeting,Low,Gym session for strength training,Health
+Update website,Medium,Call family to check in,Personal
+Organize files,Low,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Fix critical bugs in the system,Work
+Workout session,Medium,Organize the home office,Personal
+Review pull requests,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Review pull requests,Medium,Go for a run in the park,Health
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Meditation and relaxation session,Health
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Call family,High,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Call family to check in,Personal
+Buy groceries,High,Fix critical bugs in the system,Work
+Workout session,High,Send project status update to stakeholders,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Buy groceries,Low,Doctor appointment for annual checkup,Health
+Plan vacation,High,Go for a run in the park,Health
+Organize files,Medium,Organize the home office,Personal
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Organize the home office,Personal
+Finish project report,Medium,Schedule dentist appointment,Health
+Review pull requests,Medium,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Schedule dentist appointment,Health
+Study for exam,High,Schedule dentist appointment,Health
+Update website,Medium,Meditation and relaxation session,Health
+Call family,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Organize the home office,Personal
+Clean the house,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Call family to check in,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Schedule team meeting,High,Conduct performance reviews,Work
+Study for exam,Medium,Organize the home office,Personal
+Workout session,Medium,Complete end-of-quarter financial report,Work
+Organize files,High,Meditation and relaxation session,Health
+Clean the house,High,Meditation and relaxation session,Health
+Finish project report,High,Conduct performance reviews,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Clean the house,High,Meditation and relaxation session,Health
+Finish project report,High,Meditation and relaxation session,Health
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Finish project report,Medium,Organize the home office,Personal
+Client follow-up,Low,Meditation and relaxation session,Health
+Doctor appointment,Medium,Send project status update to stakeholders,Work
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Update website,High,Send project status update to stakeholders,Work
+Buy groceries,High,Doctor appointment for annual checkup,Health
+Buy groceries,High,Schedule dentist appointment,Health
+Study for exam,Medium,Gym session for strength training,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Call family,Medium,Schedule a dinner with friends,Personal
+Organize files,High,Doctor appointment for annual checkup,Health
+Workout session,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Meditation and relaxation session,Health
+Plan vacation,High,Doctor appointment for annual checkup,Health
+Finish project report,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Fix critical bugs in the system,Work
+Buy groceries,Medium,Conduct performance reviews,Work
+Clean the house,Medium,Buy groceries for the week,Personal
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,High,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Organize the home office,Personal
+Clean the house,Medium,Send project status update to stakeholders,Work
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Call family,Medium,Call family to check in,Personal
+Client follow-up,High,Meditation and relaxation session,Health
+Workout session,Medium,Organize the home office,Personal
+Call family,Medium,Conduct performance reviews,Work
+Study for exam,Medium,Send project status update to stakeholders,Work
+Call family,Medium,Gym session for strength training,Health
+Client follow-up,Medium,Meditation and relaxation session,Health
+Client follow-up,Medium,Conduct performance reviews,Work
+Organize files,Medium,Schedule a dinner with friends,Personal
+Call family,Medium,Organize the home office,Personal
+Fix the sink,High,Schedule dentist appointment,Health
+Fix the sink,Medium,Call family to check in,Personal
+Doctor appointment,Low,Meditation and relaxation session,Health
+Client follow-up,Medium,Organize the home office,Personal
+Call family,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Call family to check in,Personal
+Update website,Medium,Conduct performance reviews,Work
+Study for exam,High,Meditation and relaxation session,Health
+Fix the sink,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Update website,High,Prepare presentation slides for the meeting,Work
+Call family,Medium,Meditation and relaxation session,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Organize the home office,Personal
+Finish project report,High,Schedule dentist appointment,Health
+Buy groceries,Medium,Call family to check in,Personal
+Write blog post,Medium,Complete end-of-quarter financial report,Work
+Study for exam,Medium,Complete end-of-quarter financial report,Work
+Workout session,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Gym session for strength training,Health
+Buy groceries,Low,Gym session for strength training,Health
+Write blog post,Low,Meditation and relaxation session,Health
+Buy groceries,Medium,Call family to check in,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Plan vacation,High,Doctor appointment for annual checkup,Health
+Organize files,High,Go for a run in the park,Health
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Conduct performance reviews,Work
+Client follow-up,High,Schedule dentist appointment,Health
+Organize files,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Call family to check in,Personal
+Client follow-up,High,Gym session for strength training,Health
+Call family,High,Fix critical bugs in the system,Work
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Low,Gym session for strength training,Health
+Plan vacation,Medium,Organize the home office,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Doctor appointment,High,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Client follow-up,High,Prepare presentation slides for the meeting,Work
+Study for exam,High,Conduct performance reviews,Work
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Organize the home office,Personal
+Workout session,Low,Meditation and relaxation session,Health
+Client follow-up,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Client follow-up,Medium,Prepare presentation slides for the meeting,Work
+Update website,High,Complete end-of-quarter financial report,Work
+Write blog post,High,Fix critical bugs in the system,Work
+Plan vacation,High,Fix critical bugs in the system,Work
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Organize the home office,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Clean the house,High,Schedule dentist appointment,Health
+Plan vacation,Medium,Conduct performance reviews,Work
+Clean the house,Medium,Fix critical bugs in the system,Work
+Update website,Medium,Buy groceries for the week,Personal
+Review pull requests,Low,Doctor appointment for annual checkup,Health
+Organize files,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Go for a run in the park,Health
+Study for exam,Medium,Gym session for strength training,Health
+Review pull requests,High,Send project status update to stakeholders,Work
+Doctor appointment,High,Schedule dentist appointment,Health
+Clean the house,Medium,Buy groceries for the week,Personal
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Call family,Medium,Call family to check in,Personal
+Plan vacation,Medium,Meditation and relaxation session,Health
+Fix the sink,Medium,Conduct performance reviews,Work
+Call family,High,Fix critical bugs in the system,Work
+Review pull requests,Low,Meditation and relaxation session,Health
+Fix the sink,High,Meditation and relaxation session,Health
+Client follow-up,Low,Gym session for strength training,Health
+Call family,Medium,Call family to check in,Personal
+Organize files,Medium,Organize the home office,Personal
+Review pull requests,Low,Meditation and relaxation session,Health
+Write blog post,Medium,Call family to check in,Personal
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Doctor appointment for annual checkup,Health
+Plan vacation,Low,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Fix critical bugs in the system,Work
+Study for exam,Medium,Conduct performance reviews,Work
+Organize files,High,Fix critical bugs in the system,Work
+Update website,Low,Meditation and relaxation session,Health
+Workout session,High,Doctor appointment for annual checkup,Health
+Update website,Medium,Organize the home office,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Send project status update to stakeholders,Work
+Fix the sink,Medium,Conduct performance reviews,Work
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Review pull requests,Medium,Doctor appointment for annual checkup,Health
+Doctor appointment,High,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Conduct performance reviews,Work
+Update website,High,Schedule dentist appointment,Health
+Workout session,Medium,Organize the home office,Personal
+Plan vacation,Medium,Meditation and relaxation session,Health
+Call family,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Buy groceries,High,Schedule dentist appointment,Health
+Schedule team meeting,High,Gym session for strength training,Health
+Schedule team meeting,Low,Gym session for strength training,Health
+Call family,High,Fix critical bugs in the system,Work
+Client follow-up,Low,Gym session for strength training,Health
+Review pull requests,High,Conduct performance reviews,Work
+Clean the house,Medium,Go for a run in the park,Health
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Update website,Low,Go for a run in the park,Health
+Organize files,Low,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Organize the home office,Personal
+Fix the sink,Low,Go for a run in the park,Health
+Finish project report,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Fix the sink,High,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Clean the house,High,Conduct performance reviews,Work
+Buy groceries,Medium,Gym session for strength training,Health
+Plan vacation,High,Conduct performance reviews,Work
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Clean the house,High,Conduct performance reviews,Work
+Finish project report,High,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Low,Gym session for strength training,Health
+Schedule team meeting,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Fix the sink,High,Fix critical bugs in the system,Work
+Organize files,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Go for a run in the park,Health
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Update website,High,Schedule dentist appointment,Health
+Review pull requests,Medium,Fix critical bugs in the system,Work
+Clean the house,Medium,Schedule dentist appointment,Health
+Buy groceries,Medium,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Gym session for strength training,Health
+Finish project report,High,Complete end-of-quarter financial report,Work
+Workout session,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,Medium,Go for a run in the park,Health
+Update website,High,Go for a run in the park,Health
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,High,Schedule dentist appointment,Health
+Clean the house,Medium,Gym session for strength training,Health
+Update website,High,Doctor appointment for annual checkup,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Review pull requests,High,Complete end-of-quarter financial report,Work
+Finish project report,High,Fix critical bugs in the system,Work
+Organize files,Medium,Call family to check in,Personal
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Organize the home office,Personal
+Fix the sink,High,Fix critical bugs in the system,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Go for a run in the park,Health
+Clean the house,Low,Schedule dentist appointment,Health
+Workout session,High,Complete end-of-quarter financial report,Work
+Organize files,Low,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Doctor appointment for annual checkup,Health
+Review pull requests,High,Conduct performance reviews,Work
+Organize files,Medium,Organize the home office,Personal
+Review pull requests,High,Fix critical bugs in the system,Work
+Write blog post,Medium,Go for a run in the park,Health
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Buy groceries,Low,Doctor appointment for annual checkup,Health
+Call family,Medium,Organize the home office,Personal
+Fix the sink,High,Meditation and relaxation session,Health
+Fix the sink,Medium,Organize the home office,Personal
+Finish project report,Low,Go for a run in the park,Health
+Study for exam,Medium,Doctor appointment for annual checkup,Health
+Organize files,High,Conduct performance reviews,Work
+Clean the house,High,Go for a run in the park,Health
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Call family,High,Go for a run in the park,Health
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Call family to check in,Personal
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Prepare presentation slides for the meeting,Work
+Study for exam,High,Conduct performance reviews,Work
+Write blog post,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Conduct performance reviews,Work
+Plan vacation,Medium,Gym session for strength training,Health
+Call family,Medium,Call family to check in,Personal
+Fix the sink,Medium,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Doctor appointment for annual checkup,Health
+Client follow-up,High,Doctor appointment for annual checkup,Health
+Write blog post,High,Gym session for strength training,Health
+Plan vacation,Medium,Organize the home office,Personal
+Review pull requests,Medium,Conduct performance reviews,Work
+Organize files,Medium,Organize the home office,Personal
+Call family,High,Gym session for strength training,Health
+Review pull requests,Low,Go for a run in the park,Health
+Client follow-up,High,Complete end-of-quarter financial report,Work
+Fix the sink,High,Fix critical bugs in the system,Work
+Plan vacation,Medium,Doctor appointment for annual checkup,Health
+Client follow-up,Medium,Send project status update to stakeholders,Work
+Doctor appointment,High,Gym session for strength training,Health
+Workout session,High,Prepare presentation slides for the meeting,Work
+Plan vacation,Low,Gym session for strength training,Health
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Finish project report,Low,Schedule dentist appointment,Health
+Buy groceries,Medium,Call family to check in,Personal
+Organize files,Low,Gym session for strength training,Health
+Fix the sink,Medium,Schedule dentist appointment,Health
+Finish project report,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Low,Meditation and relaxation session,Health
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Call family to check in,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Buy groceries for the week,Personal
+Call family,Medium,Organize the home office,Personal
+Finish project report,Medium,Call family to check in,Personal
+Plan vacation,High,Conduct performance reviews,Work
+Clean the house,Low,Schedule dentist appointment,Health
+Organize files,Medium,Organize the home office,Personal
+Workout session,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Conduct performance reviews,Work
+Update website,Medium,Call family to check in,Personal
+Buy groceries,Medium,Buy groceries for the week,Personal
+Study for exam,High,Schedule dentist appointment,Health
+Plan vacation,High,Go for a run in the park,Health
+Update website,Medium,Call family to check in,Personal
+Call family,High,Meditation and relaxation session,Health
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Write blog post,High,Send project status update to stakeholders,Work
+Call family,Medium,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Client follow-up,Low,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Plan a weekend getaway,Personal
+Write blog post,High,Doctor appointment for annual checkup,Health
+Clean the house,High,Gym session for strength training,Health
+Review pull requests,Medium,Organize the home office,Personal
+Workout session,Medium,Conduct performance reviews,Work
+Review pull requests,High,Meditation and relaxation session,Health
+Organize files,Medium,Conduct performance reviews,Work
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,High,Send project status update to stakeholders,Work
+Finish project report,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Call family to check in,Personal
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Call family,High,Complete end-of-quarter financial report,Work
+Finish project report,Low,Go for a run in the park,Health
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Call family,Medium,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Organize the home office,Personal
+Study for exam,Medium,Schedule dentist appointment,Health
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Send project status update to stakeholders,Work
+Study for exam,Low,Go for a run in the park,Health
+Update website,Medium,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Call family to check in,Personal
+Workout session,Medium,Schedule dentist appointment,Health
+Buy groceries,Medium,Conduct performance reviews,Work
+Study for exam,Low,Schedule dentist appointment,Health
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Doctor appointment,Low,Schedule dentist appointment,Health
+Update website,High,Meditation and relaxation session,Health
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Fix critical bugs in the system,Work
+Review pull requests,High,Conduct performance reviews,Work
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,Low,Go for a run in the park,Health
+Plan vacation,High,Conduct performance reviews,Work
+Update website,Low,Schedule dentist appointment,Health
+Update website,Medium,Plan a weekend getaway,Personal
+Finish project report,Low,Schedule dentist appointment,Health
+Update website,High,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,High,Meditation and relaxation session,Health
+Plan vacation,Medium,Buy groceries for the week,Personal
+Update website,High,Conduct performance reviews,Work
+Call family,High,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Conduct performance reviews,Work
+Client follow-up,Medium,Prepare presentation slides for the meeting,Work
+Update website,High,Complete end-of-quarter financial report,Work
+Call family,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Send project status update to stakeholders,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Call family,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Organize the home office,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Study for exam,High,Conduct performance reviews,Work
+Write blog post,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Go for a run in the park,Health
+Workout session,High,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Organize the home office,Personal
+Organize files,Low,Meditation and relaxation session,Health
+Clean the house,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Doctor appointment for annual checkup,Health
+Update website,High,Go for a run in the park,Health
+Study for exam,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Buy groceries,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Call family,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Buy groceries for the week,Personal
+Organize files,Medium,Go for a run in the park,Health
+Doctor appointment,High,Send project status update to stakeholders,Work
+Client follow-up,High,Complete end-of-quarter financial report,Work
+Review pull requests,High,Complete end-of-quarter financial report,Work
+Organize files,Medium,Go for a run in the park,Health
+Plan vacation,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Call family to check in,Personal
+Call family,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Organize the home office,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Client follow-up,Low,Meditation and relaxation session,Health
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Update website,High,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Schedule dentist appointment,Health
+Plan vacation,Medium,Send project status update to stakeholders,Work
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Workout session,Medium,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Call family to check in,Personal
+Finish project report,Medium,Buy groceries for the week,Personal
+Organize files,Medium,Doctor appointment for annual checkup,Health
+Organize files,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Fix critical bugs in the system,Work
+Plan vacation,Low,Go for a run in the park,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Meditation and relaxation session,Health
+Write blog post,Low,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Plan vacation,Low,Meditation and relaxation session,Health
+Call family,Medium,Fix critical bugs in the system,Work
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Schedule team meeting,High,Gym session for strength training,Health
+Plan vacation,Medium,Schedule a dinner with friends,Personal
+Plan vacation,Medium,Send project status update to stakeholders,Work
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Clean the house,High,Gym session for strength training,Health
+Update website,High,Schedule dentist appointment,Health
+Organize files,Medium,Fix critical bugs in the system,Work
+Study for exam,Medium,Plan a weekend getaway,Personal
+Update website,Medium,Gym session for strength training,Health
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Send project status update to stakeholders,Work
+Plan vacation,Low,Schedule dentist appointment,Health
+Organize files,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Go for a run in the park,Health
+Study for exam,Medium,Send project status update to stakeholders,Work
+Update website,Medium,Organize the home office,Personal
+Schedule team meeting,Low,Go for a run in the park,Health
+Clean the house,Medium,Gym session for strength training,Health
+Schedule team meeting,High,Schedule dentist appointment,Health
+Organize files,High,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Send project status update to stakeholders,Work
+Buy groceries,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Call family to check in,Personal
+Doctor appointment,Low,Go for a run in the park,Health
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Organize files,High,Send project status update to stakeholders,Work
+Update website,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Schedule dentist appointment,Health
+Call family,Medium,Call family to check in,Personal
+Review pull requests,High,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Gym session for strength training,Health
+Finish project report,Medium,Conduct performance reviews,Work
+Fix the sink,High,Fix critical bugs in the system,Work
+Finish project report,High,Send project status update to stakeholders,Work
+Call family,Medium,Buy groceries for the week,Personal
+Schedule team meeting,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Organize files,High,Go for a run in the park,Health
+Update website,Medium,Buy groceries for the week,Personal
+Update website,Low,Go for a run in the park,Health
+Review pull requests,Medium,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Call family to check in,Personal
+Clean the house,Medium,Send project status update to stakeholders,Work
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Update website,Medium,Call family to check in,Personal
+Write blog post,Medium,Call family to check in,Personal
+Doctor appointment,High,Fix critical bugs in the system,Work
+Update website,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Organize files,High,Complete end-of-quarter financial report,Work
+Client follow-up,Medium,Organize the home office,Personal
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Review pull requests,High,Send project status update to stakeholders,Work
+Call family,Low,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Organize the home office,Personal
+Organize files,High,Prepare presentation slides for the meeting,Work
+Call family,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Organize the home office,Personal
+Plan vacation,Medium,Schedule dentist appointment,Health
+Update website,High,Send project status update to stakeholders,Work
+Workout session,High,Prepare presentation slides for the meeting,Work
+Update website,High,Conduct performance reviews,Work
+Finish project report,Medium,Gym session for strength training,Health
+Review pull requests,High,Doctor appointment for annual checkup,Health
+Schedule team meeting,Low,Gym session for strength training,Health
+Update website,Medium,Meditation and relaxation session,Health
+Study for exam,Medium,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Call family to check in,Personal
+Doctor appointment,High,Schedule dentist appointment,Health
+Clean the house,High,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Fix critical bugs in the system,Work
+Clean the house,Low,Gym session for strength training,Health
+Finish project report,Medium,Doctor appointment for annual checkup,Health
+Update website,Medium,Call family to check in,Personal
+Update website,Medium,Schedule dentist appointment,Health
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Call family,High,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Call family to check in,Personal
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Meditation and relaxation session,Health
+Review pull requests,High,Send project status update to stakeholders,Work
+Plan vacation,Medium,Conduct performance reviews,Work
+Update website,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Organize the home office,Personal
+Study for exam,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Organize the home office,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Review pull requests,High,Conduct performance reviews,Work
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Call family to check in,Personal
+Study for exam,Medium,Go for a run in the park,Health
+Call family,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Client follow-up,High,Schedule dentist appointment,Health
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Call family,High,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Go for a run in the park,Health
+Update website,High,Conduct performance reviews,Work
+Study for exam,Medium,Schedule a dinner with friends,Personal
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,Medium,Conduct performance reviews,Work
+Study for exam,Medium,Organize the home office,Personal
+Call family,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Update website,Medium,Doctor appointment for annual checkup,Health
+Workout session,Medium,Call family to check in,Personal
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Send project status update to stakeholders,Work
+Workout session,Medium,Plan a weekend getaway,Personal
+Clean the house,Low,Gym session for strength training,Health
+Workout session,High,Schedule dentist appointment,Health
+Write blog post,Medium,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Workout session,High,Complete end-of-quarter financial report,Work
+Clean the house,High,Conduct performance reviews,Work
+Organize files,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Schedule dentist appointment,Health
+Update website,High,Go for a run in the park,Health
+Study for exam,Medium,Conduct performance reviews,Work
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Complete end-of-quarter financial report,Work
+Review pull requests,Medium,Fix critical bugs in the system,Work
+Client follow-up,High,Conduct performance reviews,Work
+Study for exam,Medium,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Gym session for strength training,Health
+Finish project report,Medium,Organize the home office,Personal
+Update website,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Conduct performance reviews,Work
+Client follow-up,Medium,Fix critical bugs in the system,Work
+Review pull requests,Low,Schedule dentist appointment,Health
+Fix the sink,Medium,Organize the home office,Personal
+Client follow-up,High,Meditation and relaxation session,Health
+Client follow-up,Medium,Call family to check in,Personal
+Organize files,High,Send project status update to stakeholders,Work
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Buy groceries,High,Fix critical bugs in the system,Work
+Write blog post,Low,Meditation and relaxation session,Health
+Fix the sink,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,Medium,Go for a run in the park,Health
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Buy groceries,High,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Organize the home office,Personal
+Workout session,Low,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Gym session for strength training,Health
+Client follow-up,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Clean the house,High,Meditation and relaxation session,Health
+Study for exam,High,Prepare presentation slides for the meeting,Work
+Call family,Medium,Gym session for strength training,Health
+Workout session,Medium,Call family to check in,Personal
+Organize files,High,Doctor appointment for annual checkup,Health
+Organize files,Medium,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Organize the home office,Personal
+Write blog post,Low,Go for a run in the park,Health
+Buy groceries,Medium,Schedule a dinner with friends,Personal
+Finish project report,High,Fix critical bugs in the system,Work
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Call family,High,Meditation and relaxation session,Health
+Client follow-up,Medium,Conduct performance reviews,Work
+Plan vacation,High,Prepare presentation slides for the meeting,Work
+Plan vacation,Medium,Fix critical bugs in the system,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Call family,Medium,Buy groceries for the week,Personal
+Doctor appointment,Medium,Go for a run in the park,Health
+Schedule team meeting,Medium,Schedule dentist appointment,Health
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,Medium,Go for a run in the park,Health
+Plan vacation,Medium,Call family to check in,Personal
+Client follow-up,High,Conduct performance reviews,Work
+Organize files,High,Prepare presentation slides for the meeting,Work
+Doctor appointment,Low,Doctor appointment for annual checkup,Health
+Plan vacation,Medium,Call family to check in,Personal
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Review pull requests,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Gym session for strength training,Health
+Clean the house,High,Fix critical bugs in the system,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Review pull requests,High,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Conduct performance reviews,Work
+Workout session,Low,Schedule dentist appointment,Health
+Buy groceries,High,Gym session for strength training,Health
+Review pull requests,High,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Buy groceries for the week,Personal
+Client follow-up,High,Conduct performance reviews,Work
+Clean the house,Low,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Call family to check in,Personal
+Update website,Medium,Schedule dentist appointment,Health
+Organize files,High,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Complete end-of-quarter financial report,Work
+Write blog post,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Meditation and relaxation session,Health
+Update website,Medium,Go for a run in the park,Health
+Schedule team meeting,Low,Go for a run in the park,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Update website,Medium,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Send project status update to stakeholders,Work
+Review pull requests,High,Fix critical bugs in the system,Work
+Buy groceries,High,Conduct performance reviews,Work
+Workout session,Medium,Go for a run in the park,Health
+Update website,High,Fix critical bugs in the system,Work
+Buy groceries,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Go for a run in the park,Health
+Workout session,Medium,Conduct performance reviews,Work
+Organize files,Low,Schedule dentist appointment,Health
+Fix the sink,Low,Meditation and relaxation session,Health
+Call family,Medium,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Go for a run in the park,Health
+Organize files,High,Conduct performance reviews,Work
+Update website,High,Conduct performance reviews,Work
+Update website,Low,Go for a run in the park,Health
+Fix the sink,Medium,Schedule dentist appointment,Health
+Update website,Medium,Schedule a dinner with friends,Personal
+Review pull requests,High,Fix critical bugs in the system,Work
+Study for exam,Medium,Buy groceries for the week,Personal
+Buy groceries,High,Complete end-of-quarter financial report,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Workout session,Low,Go for a run in the park,Health
+Workout session,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,High,Complete end-of-quarter financial report,Work
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Organize files,High,Conduct performance reviews,Work
+Fix the sink,Low,Go for a run in the park,Health
+Organize files,High,Meditation and relaxation session,Health
+Update website,Low,Schedule dentist appointment,Health
+Plan vacation,High,Fix critical bugs in the system,Work
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Review pull requests,Medium,Conduct performance reviews,Work
+Call family,High,Fix critical bugs in the system,Work
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Workout session,High,Fix critical bugs in the system,Work
+Workout session,Medium,Plan a weekend getaway,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Call family,Medium,Call family to check in,Personal
+Client follow-up,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Send project status update to stakeholders,Work
+Review pull requests,High,Go for a run in the park,Health
+Review pull requests,Medium,Call family to check in,Personal
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,High,Doctor appointment for annual checkup,Health
+Doctor appointment,High,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Call family to check in,Personal
+Client follow-up,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Workout session,Low,Schedule dentist appointment,Health
+Client follow-up,High,Doctor appointment for annual checkup,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Clean the house,Medium,Fix critical bugs in the system,Work
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Go for a run in the park,Health
+Doctor appointment,Medium,Buy groceries for the week,Personal
+Review pull requests,Low,Gym session for strength training,Health
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Buy groceries for the week,Personal
+Doctor appointment,High,Gym session for strength training,Health
+Finish project report,Medium,Call family to check in,Personal
+Plan vacation,High,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Call family,Medium,Buy groceries for the week,Personal
+Write blog post,High,Gym session for strength training,Health
+Study for exam,Medium,Plan a weekend getaway,Personal
+Buy groceries,Medium,Organize the home office,Personal
+Call family,High,Schedule dentist appointment,Health
+Schedule team meeting,High,Meditation and relaxation session,Health
+Organize files,High,Doctor appointment for annual checkup,Health
+Workout session,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Organize the home office,Personal
+Clean the house,Medium,Organize the home office,Personal
+Write blog post,High,Gym session for strength training,Health
+Study for exam,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Complete end-of-quarter financial report,Work
+Workout session,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Gym session for strength training,Health
+Write blog post,Low,Meditation and relaxation session,Health
+Workout session,High,Conduct performance reviews,Work
+Update website,Medium,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Call family to check in,Personal
+Organize files,High,Gym session for strength training,Health
+Workout session,High,Schedule dentist appointment,Health
+Call family,Medium,Send project status update to stakeholders,Work
+Finish project report,Medium,Organize the home office,Personal
+Write blog post,Medium,Go for a run in the park,Health
+Plan vacation,High,Complete end-of-quarter financial report,Work
+Write blog post,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Complete end-of-quarter financial report,Work
+Doctor appointment,Low,Meditation and relaxation session,Health
+Plan vacation,Medium,Call family to check in,Personal
+Study for exam,High,Meditation and relaxation session,Health
+Schedule team meeting,High,Conduct performance reviews,Work
+Study for exam,Medium,Conduct performance reviews,Work
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Workout session,Medium,Schedule a dinner with friends,Personal
+Study for exam,High,Conduct performance reviews,Work
+Review pull requests,Medium,Schedule dentist appointment,Health
+Write blog post,Medium,Meditation and relaxation session,Health
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Workout session,Low,Gym session for strength training,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Call family to check in,Personal
+Call family,Low,Go for a run in the park,Health
+Fix the sink,High,Go for a run in the park,Health
+Clean the house,High,Meditation and relaxation session,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Finish project report,Medium,Plan a weekend getaway,Personal
+Study for exam,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Call family to check in,Personal
+Review pull requests,Medium,Organize the home office,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Gym session for strength training,Health
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Buy groceries,High,Send project status update to stakeholders,Work
+Organize files,Low,Doctor appointment for annual checkup,Health
+Clean the house,High,Fix critical bugs in the system,Work
+Update website,Medium,Organize the home office,Personal
+Update website,Medium,Prepare presentation slides for the meeting,Work
+Organize files,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Low,Meditation and relaxation session,Health
+Workout session,Medium,Conduct performance reviews,Work
+Buy groceries,Medium,Buy groceries for the week,Personal
+Study for exam,Medium,Call family to check in,Personal
+Organize files,Medium,Schedule dentist appointment,Health
+Call family,High,Conduct performance reviews,Work
+Organize files,Medium,Schedule a dinner with friends,Personal
+Client follow-up,High,Gym session for strength training,Health
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Call family to check in,Personal
+Finish project report,Medium,Send project status update to stakeholders,Work
+Update website,Medium,Conduct performance reviews,Work
+Study for exam,High,Gym session for strength training,Health
+Review pull requests,Low,Go for a run in the park,Health
+Update website,High,Conduct performance reviews,Work
+Call family,Low,Meditation and relaxation session,Health
+Doctor appointment,High,Schedule dentist appointment,Health
+Call family,Medium,Schedule a dinner with friends,Personal
+Client follow-up,Medium,Meditation and relaxation session,Health
+Clean the house,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Organize the home office,Personal
+Clean the house,Medium,Call family to check in,Personal
+Review pull requests,High,Send project status update to stakeholders,Work
+Schedule team meeting,Low,Go for a run in the park,Health
+Client follow-up,Medium,Organize the home office,Personal
+Update website,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Go for a run in the park,Health
+Workout session,Medium,Schedule dentist appointment,Health
+Organize files,Medium,Meditation and relaxation session,Health
+Call family,Medium,Meditation and relaxation session,Health
+Write blog post,Low,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Go for a run in the park,Health
+Organize files,High,Gym session for strength training,Health
+Buy groceries,High,Conduct performance reviews,Work
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Schedule team meeting,High,Conduct performance reviews,Work
+Client follow-up,High,Send project status update to stakeholders,Work
+Finish project report,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Organize the home office,Personal
+Update website,Low,Go for a run in the park,Health
+Study for exam,Medium,Plan a weekend getaway,Personal
+Client follow-up,Medium,Call family to check in,Personal
+Plan vacation,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Call family to check in,Personal
+Update website,Medium,Send project status update to stakeholders,Work
+Buy groceries,Medium,Organize the home office,Personal
+Clean the house,Medium,Organize the home office,Personal
+Fix the sink,Low,Schedule dentist appointment,Health
+Study for exam,High,Conduct performance reviews,Work
+Schedule team meeting,Medium,Doctor appointment for annual checkup,Health
+Review pull requests,Medium,Call family to check in,Personal
+Write blog post,High,Prepare presentation slides for the meeting,Work
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Call family,Medium,Conduct performance reviews,Work
+Organize files,Low,Meditation and relaxation session,Health
+Finish project report,Medium,Organize the home office,Personal
+Finish project report,High,Schedule dentist appointment,Health
+Update website,Medium,Gym session for strength training,Health
+Study for exam,High,Complete end-of-quarter financial report,Work
+Finish project report,High,Schedule dentist appointment,Health
+Client follow-up,Medium,Schedule a dinner with friends,Personal
+Review pull requests,High,Send project status update to stakeholders,Work
+Fix the sink,Low,Meditation and relaxation session,Health
+Buy groceries,Medium,Buy groceries for the week,Personal
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Study for exam,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Organize the home office,Personal
+Study for exam,Medium,Buy groceries for the week,Personal
+Study for exam,High,Go for a run in the park,Health
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Finish project report,Medium,Fix critical bugs in the system,Work
+Organize files,Low,Gym session for strength training,Health
+Clean the house,High,Send project status update to stakeholders,Work
+Fix the sink,Low,Schedule dentist appointment,Health
+Buy groceries,Medium,Call family to check in,Personal
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Clean the house,Medium,Fix critical bugs in the system,Work
+Client follow-up,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Buy groceries for the week,Personal
+Organize files,Medium,Call family to check in,Personal
+Call family,High,Send project status update to stakeholders,Work
+Fix the sink,Medium,Complete end-of-quarter financial report,Work
+Organize files,Medium,Fix critical bugs in the system,Work
+Call family,High,Schedule dentist appointment,Health
+Finish project report,Medium,Meditation and relaxation session,Health
+Schedule team meeting,High,Fix critical bugs in the system,Work
+Plan vacation,Medium,Fix critical bugs in the system,Work
+Call family,Medium,Fix critical bugs in the system,Work
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Fix the sink,Medium,Call family to check in,Personal
+Organize files,Medium,Call family to check in,Personal
+Fix the sink,High,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Fix critical bugs in the system,Work
+Update website,Medium,Go for a run in the park,Health
+Client follow-up,Medium,Call family to check in,Personal
+Call family,High,Conduct performance reviews,Work
+Fix the sink,High,Schedule dentist appointment,Health
+Doctor appointment,High,Conduct performance reviews,Work
+Clean the house,Medium,Organize the home office,Personal
+Review pull requests,Medium,Buy groceries for the week,Personal
+Organize files,High,Conduct performance reviews,Work
+Finish project report,Low,Gym session for strength training,Health
+Clean the house,High,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Organize files,Medium,Fix critical bugs in the system,Work
+Fix the sink,Low,Schedule dentist appointment,Health
+Write blog post,High,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Go for a run in the park,Health
+Call family,Low,Doctor appointment for annual checkup,Health
+Finish project report,High,Send project status update to stakeholders,Work
+Call family,Medium,Buy groceries for the week,Personal
+Workout session,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,Medium,Plan a weekend getaway,Personal
+Plan vacation,Low,Go for a run in the park,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Plan vacation,Low,Gym session for strength training,Health
+Update website,Low,Meditation and relaxation session,Health
+Schedule team meeting,Medium,Gym session for strength training,Health
+Review pull requests,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Meditation and relaxation session,Health
+Doctor appointment,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Meditation and relaxation session,Health
+Call family,High,Complete end-of-quarter financial report,Work
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Organize files,Medium,Call family to check in,Personal
+Write blog post,Medium,Call family to check in,Personal
+Buy groceries,Low,Meditation and relaxation session,Health
+Clean the house,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,High,Conduct performance reviews,Work
+Buy groceries,High,Meditation and relaxation session,Health
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Workout session,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Doctor appointment for annual checkup,Health
+Clean the house,Medium,Complete end-of-quarter financial report,Work
+Finish project report,High,Send project status update to stakeholders,Work
+Organize files,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Call family to check in,Personal
+Update website,Medium,Conduct performance reviews,Work
+Update website,Medium,Send project status update to stakeholders,Work
+Study for exam,High,Conduct performance reviews,Work
+Workout session,High,Conduct performance reviews,Work
+Buy groceries,Medium,Send project status update to stakeholders,Work
+Update website,Medium,Doctor appointment for annual checkup,Health
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Study for exam,Medium,Fix critical bugs in the system,Work
+Finish project report,Medium,Schedule dentist appointment,Health
+Clean the house,High,Go for a run in the park,Health
+Plan vacation,Medium,Call family to check in,Personal
+Finish project report,Medium,Prepare presentation slides for the meeting,Work
+Doctor appointment,Medium,Schedule dentist appointment,Health
+Buy groceries,Medium,Doctor appointment for annual checkup,Health
+Write blog post,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Call family to check in,Personal
+Schedule team meeting,Medium,Schedule a dinner with friends,Personal
+Doctor appointment,Medium,Call family to check in,Personal
+Review pull requests,High,Meditation and relaxation session,Health
+Workout session,Low,Go for a run in the park,Health
+Finish project report,Low,Schedule dentist appointment,Health
+Update website,High,Meditation and relaxation session,Health
+Finish project report,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Prepare presentation slides for the meeting,Work
+Study for exam,Medium,Conduct performance reviews,Work
+Client follow-up,Low,Schedule dentist appointment,Health
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Plan a weekend getaway,Personal
+Doctor appointment,Medium,Doctor appointment for annual checkup,Health
+Fix the sink,Medium,Buy groceries for the week,Personal
+Buy groceries,Medium,Prepare presentation slides for the meeting,Work
+Buy groceries,High,Send project status update to stakeholders,Work
+Clean the house,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Plan a weekend getaway,Personal
+Clean the house,Medium,Call family to check in,Personal
+Schedule team meeting,Medium,Gym session for strength training,Health
+Plan vacation,Medium,Meditation and relaxation session,Health
+Doctor appointment,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Conduct performance reviews,Work
+Study for exam,Medium,Fix critical bugs in the system,Work
+Fix the sink,Medium,Organize the home office,Personal
+Write blog post,High,Schedule dentist appointment,Health
+Organize files,Medium,Buy groceries for the week,Personal
+Call family,Medium,Plan a weekend getaway,Personal
+Workout session,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Fix critical bugs in the system,Work
+Fix the sink,High,Schedule dentist appointment,Health
+Study for exam,Low,Gym session for strength training,Health
+Update website,Medium,Send project status update to stakeholders,Work
+Review pull requests,Medium,Organize the home office,Personal
+Finish project report,High,Send project status update to stakeholders,Work
+Finish project report,Low,Schedule dentist appointment,Health
+Buy groceries,High,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Gym session for strength training,Health
+Update website,Medium,Buy groceries for the week,Personal
+Plan vacation,Medium,Prepare presentation slides for the meeting,Work
+Update website,Medium,Schedule a dinner with friends,Personal
+Fix the sink,High,Send project status update to stakeholders,Work
+Review pull requests,Medium,Conduct performance reviews,Work
+Call family,Medium,Schedule a dinner with friends,Personal
+Fix the sink,Medium,Organize the home office,Personal
+Study for exam,Medium,Plan a weekend getaway,Personal
+Study for exam,High,Doctor appointment for annual checkup,Health
+Update website,Medium,Schedule a dinner with friends,Personal
+Finish project report,High,Doctor appointment for annual checkup,Health
+Write blog post,High,Send project status update to stakeholders,Work
+Review pull requests,High,Go for a run in the park,Health
+Call family,Low,Schedule dentist appointment,Health
+Write blog post,Medium,Go for a run in the park,Health
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Plan a weekend getaway,Personal
+Schedule team meeting,High,Conduct performance reviews,Work
+Study for exam,Medium,Call family to check in,Personal
+Organize files,Low,Gym session for strength training,Health
+Finish project report,High,Complete end-of-quarter financial report,Work
+Fix the sink,High,Send project status update to stakeholders,Work
+Plan vacation,Low,Gym session for strength training,Health
+Finish project report,High,Fix critical bugs in the system,Work
+Update website,Medium,Call family to check in,Personal
+Buy groceries,High,Schedule dentist appointment,Health
+Client follow-up,Low,Meditation and relaxation session,Health
+Doctor appointment,High,Send project status update to stakeholders,Work
+Client follow-up,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Buy groceries for the week,Personal
+Plan vacation,High,Schedule dentist appointment,Health
+Fix the sink,High,Gym session for strength training,Health
+Review pull requests,Low,Schedule dentist appointment,Health
+Clean the house,Medium,Organize the home office,Personal
+Buy groceries,Medium,Go for a run in the park,Health
+Write blog post,High,Conduct performance reviews,Work
+Schedule team meeting,High,Conduct performance reviews,Work
+Clean the house,Medium,Fix critical bugs in the system,Work
+Clean the house,Medium,Organize the home office,Personal
+Finish project report,High,Prepare presentation slides for the meeting,Work
+Finish project report,High,Complete end-of-quarter financial report,Work
+Fix the sink,Medium,Buy groceries for the week,Personal
+Schedule team meeting,High,Prepare presentation slides for the meeting,Work
+Write blog post,Medium,Call family to check in,Personal
+Buy groceries,Medium,Call family to check in,Personal
+Review pull requests,Medium,Schedule dentist appointment,Health
+Update website,High,Go for a run in the park,Health
+Update website,Medium,Organize the home office,Personal
+Call family,High,Conduct performance reviews,Work
+Call family,Medium,Call family to check in,Personal
+Plan vacation,Low,Meditation and relaxation session,Health
+Clean the house,High,Conduct performance reviews,Work
+Study for exam,Medium,Call family to check in,Personal
+Study for exam,Medium,Gym session for strength training,Health
+Study for exam,High,Prepare presentation slides for the meeting,Work
+Organize files,High,Doctor appointment for annual checkup,Health
+Review pull requests,High,Complete end-of-quarter financial report,Work
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Plan vacation,High,Conduct performance reviews,Work
+Client follow-up,Medium,Meditation and relaxation session,Health
+Doctor appointment,Medium,Call family to check in,Personal
+Fix the sink,Medium,Send project status update to stakeholders,Work
+Plan vacation,Medium,Meditation and relaxation session,Health
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Plan vacation,High,Conduct performance reviews,Work
+Buy groceries,Medium,Call family to check in,Personal
+Write blog post,Medium,Organize the home office,Personal
+Organize files,Low,Go for a run in the park,Health
+Plan vacation,Medium,Buy groceries for the week,Personal
+Clean the house,Medium,Gym session for strength training,Health
+Workout session,Medium,Buy groceries for the week,Personal
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Client follow-up,Low,Schedule dentist appointment,Health
+Workout session,Medium,Meditation and relaxation session,Health
+Finish project report,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Low,Go for a run in the park,Health
+Doctor appointment,High,Doctor appointment for annual checkup,Health
+Workout session,Medium,Fix critical bugs in the system,Work
+Organize files,Medium,Call family to check in,Personal
+Plan vacation,High,Fix critical bugs in the system,Work
+Study for exam,High,Meditation and relaxation session,Health
+Update website,High,Gym session for strength training,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Plan a weekend getaway,Personal
+Call family,Low,Gym session for strength training,Health
+Write blog post,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Prepare presentation slides for the meeting,Work
+Review pull requests,High,Meditation and relaxation session,Health
+Write blog post,Medium,Organize the home office,Personal
+Update website,High,Fix critical bugs in the system,Work
+Buy groceries,Medium,Fix critical bugs in the system,Work
+Buy groceries,Medium,Plan a weekend getaway,Personal
+Organize files,Medium,Meditation and relaxation session,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Update website,Medium,Organize the home office,Personal
+Plan vacation,Medium,Gym session for strength training,Health
+Study for exam,Medium,Conduct performance reviews,Work
+Update website,Medium,Plan a weekend getaway,Personal
+Finish project report,High,Send project status update to stakeholders,Work
+Doctor appointment,Medium,Send project status update to stakeholders,Work
+Client follow-up,Medium,Organize the home office,Personal
+Schedule team meeting,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Buy groceries for the week,Personal
+Schedule team meeting,Medium,Fix critical bugs in the system,Work
+Review pull requests,High,Fix critical bugs in the system,Work
+Review pull requests,High,Fix critical bugs in the system,Work
+Finish project report,Medium,Conduct performance reviews,Work
+Write blog post,Medium,Complete end-of-quarter financial report,Work
+Schedule team meeting,High,Schedule dentist appointment,Health
+Fix the sink,Medium,Plan a weekend getaway,Personal
+Plan vacation,Low,Doctor appointment for annual checkup,Health
+Study for exam,Medium,Plan a weekend getaway,Personal
+Study for exam,Medium,Call family to check in,Personal
+Study for exam,High,Schedule dentist appointment,Health
+Fix the sink,High,Fix critical bugs in the system,Work
+Client follow-up,Medium,Gym session for strength training,Health
+Workout session,High,Fix critical bugs in the system,Work
+Fix the sink,High,Go for a run in the park,Health
+Buy groceries,Medium,Conduct performance reviews,Work
+Study for exam,Medium,Call family to check in,Personal
+Doctor appointment,Medium,Schedule a dinner with friends,Personal
+Update website,High,Fix critical bugs in the system,Work
+Plan vacation,Medium,Call family to check in,Personal
+Clean the house,Medium,Organize the home office,Personal
+Clean the house,Medium,Gym session for strength training,Health
+Update website,Medium,Organize the home office,Personal
+Update website,Medium,Schedule dentist appointment,Health
+Write blog post,High,Go for a run in the park,Health
+Doctor appointment,High,Complete end-of-quarter financial report,Work
+Study for exam,Medium,Organize the home office,Personal
+Plan vacation,Medium,Organize the home office,Personal
+Study for exam,Medium,Meditation and relaxation session,Health
+Review pull requests,Medium,Buy groceries for the week,Personal
+Write blog post,Medium,Go for a run in the park,Health
+Clean the house,Medium,Prepare presentation slides for the meeting,Work
+Schedule team meeting,Low,Meditation and relaxation session,Health
+Write blog post,Medium,Buy groceries for the week,Personal
+Client follow-up,Medium,Organize the home office,Personal
+Fix the sink,Medium,Fix critical bugs in the system,Work
+Plan vacation,Medium,Call family to check in,Personal
+Call family,Medium,Organize the home office,Personal
+Client follow-up,High,Prepare presentation slides for the meeting,Work
+Organize files,High,Send project status update to stakeholders,Work
+Schedule team meeting,Medium,Call family to check in,Personal
+Call family,Low,Go for a run in the park,Health
+Call family,Medium,Send project status update to stakeholders,Work
+Review pull requests,Medium,Go for a run in the park,Health
+Organize files,Medium,Plan a weekend getaway,Personal
+Plan vacation,Medium,Complete end-of-quarter financial report,Work
+Client follow-up,Medium,Meditation and relaxation session,Health
+Finish project report,Low,Doctor appointment for annual checkup,Health
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Write blog post,High,Doctor appointment for annual checkup,Health
+Doctor appointment,Medium,Plan a weekend getaway,Personal
+Write blog post,Medium,Schedule dentist appointment,Health
+Study for exam,Low,Gym session for strength training,Health
+Schedule team meeting,High,Doctor appointment for annual checkup,Health
+Review pull requests,Low,Doctor appointment for annual checkup,Health
+Call family,Medium,Organize the home office,Personal
+Clean the house,High,Go for a run in the park,Health
+Write blog post,High,Complete end-of-quarter financial report,Work
+Call family,Medium,Prepare presentation slides for the meeting,Work
+Client follow-up,Medium,Plan a weekend getaway,Personal
+Client follow-up,High,Fix critical bugs in the system,Work
+Buy groceries,High,Send project status update to stakeholders,Work
+Finish project report,Medium,Send project status update to stakeholders,Work
+Client follow-up,High,Go for a run in the park,Health
+Clean the house,High,Send project status update to stakeholders,Work
+Clean the house,High,Fix critical bugs in the system,Work
+Client follow-up,Medium,Complete end-of-quarter financial report,Work
+Update website,Medium,Go for a run in the park,Health
+Organize files,Medium,Schedule dentist appointment,Health
+Review pull requests,Medium,Schedule a dinner with friends,Personal
+Buy groceries,High,Prepare presentation slides for the meeting,Work
+Fix the sink,Medium,Schedule a dinner with friends,Personal
+Schedule team meeting,Medium,Prepare presentation slides for the meeting,Work
+Workout session,Medium,Call family to check in,Personal
+Finish project report,Medium,Schedule a dinner with friends,Personal
+Clean the house,Medium,Doctor appointment for annual checkup,Health

@@ -106,6 +106,21 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
   box-shadow: 0px 3px 5px rgb(43, 42, 42);
 }
 
+/* Priority-specific task title colors */
+.todo-list-item h3.title-high {
+  color: red !important;
+}
+
+.todo-list-item h3.title-medium {
+  color: orange !important;
+}
+
+.todo-list-item h3.title-low {
+  color: green !important;
+}
+
+
+
 .todo-list-item h3{
   font-size: 25px;
   color: rgb(0,230,122);
@@ -160,3 +175,4 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
   font-size: 16px;
   width:fit-content;
 }
+
